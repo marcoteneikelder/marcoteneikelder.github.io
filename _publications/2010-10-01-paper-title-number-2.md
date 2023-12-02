@@ -1,5 +1,5 @@
 ---
-title: "Test 2"
+title: "n acoustic-convective splitting-based approach for the Kapila two-phase flow model"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
