@@ -1,11 +1,16 @@
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /talks/
+author_profile: true
+---
+
+{% if site.talkmap_link == true %}
+
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-2. M.F.P. ten Eikelder, I. Akkerman,
-Correct energy behavior in air-water flows,
-Ship hydromechanics and structure lectures,
-Delft (May 8, 2017)
-1. M.F.P. ten Eikelder and I. Akkerman,
-Ensured Energy Decay in Stabilized Methods using Dynamic Orthogonal Subgrid-
-Scales and Isogeometric Analysis,
-19th International Conference on Finite Elements in Flow Problems - FEF 2017,
-Rome, Italy (April 2017)
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
