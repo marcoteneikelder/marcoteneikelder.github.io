@@ -33,6 +33,8 @@ Mathematical Models and Methods in Applied Sciences (to appear) <br>
 10. <b>M.F.P. ten Eikelder</b>, K.G. van der Zee, I. Akkerman, D. Schillinger,<br>
 A unified framework for Navier-Stokes Cahn-Hilliard models with non-matching densities, <br>
 Mathematical Models and Methods in Applied Sciences 33, 175-221, 2023 <br>
+<a href="https://www.worldscientific.com/doi/abs/10.1142/S0218202523500069">https://www.worldscientific.com/doi/abs/10.1142/S0218202523500069</a>, 2023 <br>
+<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_M3AS.pdf">PDF paper</a>, 2023 <br>
 <br>
 9. <b>M.F.P. ten Eikelder</b>, I. Akkerman, <br>
 A novel diffuse-interface model and a fully-discrete maximum-principle-preserving energy-stable method for two-phase flow with
@@ -72,7 +74,7 @@ Computer Methods Applied Mechanics and Engineering 331: 259-280, 2018 <br>
 An acoustic-convective splitting-based approach for the Kapila two-phase flow model, <br>
 Journal of Computational Physics 331: 188-208, 2017 <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021999116306234">https://www.sciencedirect.com/science/article/abs/pii/S0021999116306234</a>, 2023 <br>
-<a href="http://marcoteneikelder.github.io/files/teneikelder2016_JCP.pdf">PDF paper</a>, 2023 <br>
+<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2016_JCP.pdf">PDF paper</a>, 2023 <br>
 <br>
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
