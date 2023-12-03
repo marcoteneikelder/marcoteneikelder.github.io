@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marcoo"
+title                    : "Marco"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Marco ten Eikelder"
-  avatar           : "profile.png"
+  avatar           : "MtE.png"
   bio              : "Computational Mechanics"
   location         :
   employer         :
