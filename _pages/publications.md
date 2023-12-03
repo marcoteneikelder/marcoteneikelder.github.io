@@ -6,8 +6,14 @@ author_profile: true
 ---
 
  <ol reversed>
-  <li>Coffee</li>
-  <li>Tea</li>
+  <li><i> Under review </i><br> <b>M.F.P. ten Eikelder</b>, D. Schillinger, <br>
+The divergence-free velocity formulation of the consistent Navier-Stokes Cahn-Hilliard model with non-matching densities, divergence-conforming discretization, and benchmarks, <br>
+<a href="https://arxiv.org/abs/2311.09966">https://arxiv.org/abs/2311.09966</a>, 2023 <br>
+<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_divNSCH_arxiv.pdf">PDF paper</a></li>
+  <li><i> Under review </i><br> M.L. Mika, <b>M.F.P. ten Eikelder</b>, D. Schillinger, R.R. Hiemstra, <br>
+Matrix-free polynomial preconditioning of saddle point systems using the hyper-power method <br>
+<a href="https://arxiv.org/abs/2311.06926">https://arxiv.org/abs/2311.06926</a>, 2023 <br>
+<a href="http://marcoteneikelder.github.io/files/Mika_2023_arxiv.pdf">PDF paper</a></li>
   <li>Milk</li>
 </ol> 
 
