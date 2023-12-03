@@ -24,11 +24,13 @@ Thermodynamically consistent diffuse-interface mixture models of incompressible 
 12. (Under review) J. Lotz, <b>M.F.P. ten Eikelder</b>, I. Akkerman, <br>
 A space-time framework for periodic flows with applications to hydrofoils, <br>
 <a href="https://arxiv.org/abs/2211.10964">https://arxiv.org/abs/2211.10964</a>, 2022 <br>
+<a href="http://marcoteneikelder.github.io/files/Lotz_2022_arxiv.pdf">PDF paper</a> <br>
 <br>
 11. <b>M.F.P. ten Eikelder</b>, S.K.F. Stoter, Y. Bazilevs, D. Schillinger, <br>
 Constraints for eliminating the Gibbs phenomenon in finite element approximation spaces, <br>
-Mathematical Models and Methods in Applied Sciences (to appear) <br>
-<a href="https://arxiv.org/abs/2302.04955">https://arxiv.org/abs/2302.04955</a>, 2022 <br>
+Mathematical Models and Methods in Applied Sciences, 2023 (to appear) <br>
+<a href="https://www.worldscientific.com/doi/10.1142/S0218202524500040">https://www.worldscientific.com/doi/10.1142/S0218202524500040</a>, 2022 <br>
+<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2024_M3AS.pdf">PDF paper</a> <br>
 <br>
 10. <b>M.F.P. ten Eikelder</b>, K.G. van der Zee, I. Akkerman, D. Schillinger,<br>
 A unified framework for Navier-Stokes Cahn-Hilliard models with non-matching densities, <br>
