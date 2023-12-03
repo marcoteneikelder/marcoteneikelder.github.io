@@ -39,17 +39,21 @@ Mathematical Models and Methods in Applied Sciences, 2023 (to appear) <br>
 10. <b>M.F.P. ten Eikelder</b>, K.G. van der Zee, I. Akkerman, D. Schillinger,<br>
 A unified framework for Navier-Stokes Cahn-Hilliard models with non-matching densities, <br>
 Mathematical Models and Methods in Applied Sciences 33, 175-221, 2023 <br>
-<a href="https://www.worldscientific.com/doi/abs/10.1142/S0218202523500069">https://www.worldscientific.com/doi/abs/10.1142/S0218202523500069</a>, 2023 <br>
-<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_M3AS.pdf">PDF paper</a>, 2023 <br>
+<a href="https://www.worldscientific.com/doi/abs/10.1142/S0218202523500069">https://www.worldscientific.com/doi/abs/10.1142/S0218202523500069</a> <br>
+<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_M3AS.pdf">PDF paper</a> <br>
 <br>
 9. <b>M.F.P. ten Eikelder</b>, I. Akkerman, <br>
 A novel diffuse-interface model and a fully-discrete maximum-principle-preserving energy-stable method for two-phase flow with
 surface tension and non-matching densities,<br>
 Computer Methods Applied Mechanics and Engineering 379: 113751, 2021<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0045782521000876">https://www.sciencedirect.com/science/article/pii/S0045782521000876</a> <br>
+<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2021_energyLS_CMAME.pdf">PDF paper</a> <br>
 <br>
 8. S.K.F. Stoter, <b>M.F.P. ten Eikelder</b>, F. de Prenter, I. Akkerman, E.H. van Brummelen, C.V. Verhoosel, D. Schillinger, <br>
 Nitsche’s method as a variational multiscale formulation and a resulting boundary layer fine-scale model, <br>
 Computer Methods Applied Mechanics and Engineering 382: 113878, 2021 <br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782521002152">https://www.sciencedirect.com/science/article/abs/pii/S0045782521002152</a> <br>
+<a href="http://marcoteneikelder.github.io/files/Stoter_2021_VMSNitsche_CMAME.pdf">PDF paper</a> <br>
 <br>
 7. I. Akkerman, J.H.A. Meijer, <b>M.F.P. ten Eikelder</b>, <br>
 Isogeometric analysis of linear free-surface potential flow, <br>
