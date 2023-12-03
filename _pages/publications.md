@@ -7,7 +7,7 @@ author_profile: true
 
 16. (Under review) M.F.P. ten Eikelder, D. Schillinger, <br>
 The divergence-free velocity formulation of the consistent Navier-Stokes Cahn-Hilliard model with non-matching densities, divergence-conforming discretization, and benchmarks, <br>
-https://arxiv.org/abs/2311.09966, 2023 <br>
+<a href="https://arxiv.org/abs/2311.09966">https://arxiv.org/abs/2311.09966</a>, 2023 <br>
 <br>
 15. (Under review) M.L. Mika, M.F.P. ten Eikelder, D. Schillinger, R.R. Hiemstra, <br>
 Matrix-free polynomial preconditioning of saddle point systems using the hyper-power method <br>
