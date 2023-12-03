@@ -71,16 +71,20 @@ Computers and Fluids 181: 77-89, 2019 <br>
 3. <b>M.F.P. ten Eikelder</b>, I. Akkerman,<br>
 Correct energy evolution of stabilized formulations: The relation between VMS, SUPG and GLS via dynamic orthogonal small-scales and isogeometric analysis. II: The incompressible Navier-Stokes equations,<br>
 Computer Methods Applied Mechanics and Engineering 340: 1135-1159, 2018 <br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782518301105">https://www.sciencedirect.com/science/article/abs/pii/S0045782518301105</a> <br>
+<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2018_energyNS_CMAME.pdf">PDF paper</a> <br>
 <br>
 2. <b>M.F.P. ten Eikelder</b>, I. Akkerman, <br>
 Correct energy evolution of stabilized formulations: The relation between VMS, SUPG and GLS via dynamic orthogonal small-scales and isogeometric analysis. I: The convective-diffusive context, <br>
 Computer Methods Applied Mechanics and Engineering 331: 259-280, 2018 <br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S004578251730720X">https://www.sciencedirect.com/science/article/abs/pii/S004578251730720X</a> <br>
+<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2018_energyCD_CMAME">PDF paper</a> <br>
 <br>
 1. <b>M.F.P. ten Eikelder</b>, F. Daude, B. Koren, A.S. Tijsseling, <br>
 An acoustic-convective splitting-based approach for the Kapila two-phase flow model, <br>
 Journal of Computational Physics 331: 188-208, 2017 <br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0021999116306234">https://www.sciencedirect.com/science/article/abs/pii/S0021999116306234</a>, 2023 <br>
-<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2016_JCP.pdf">PDF paper</a>, 2023 <br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0021999116306234">https://www.sciencedirect.com/science/article/abs/pii/S0021999116306234</a> <br>
+<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2016_JCP.pdf">PDF paper</a> <br>
 <br>
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
