@@ -4,7 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<font size="5">  
+    Journal articles
+</font>
 <ol reversed>
    <li><i> Under review </i><br> <b>M.F.P. ten Eikelder</b>, D. Schillinger, <br>
 The divergence-free velocity formulation of the consistent Navier-Stokes Cahn-Hilliard model with non-matching densities, divergence-conforming discretization, and benchmarks, <br>
