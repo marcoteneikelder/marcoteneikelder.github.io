@@ -33,7 +33,7 @@ A space-time framework for periodic flows with applications to hydrofoils, <br>
 11. <b>M.F.P. ten Eikelder</b>, S.K.F. Stoter, Y. Bazilevs, D. Schillinger, <br>
 Constraints for eliminating the Gibbs phenomenon in finite element approximation spaces, <br>
 Mathematical Models and Methods in Applied Sciences, 2023 (to appear) <br>
-<a href="https://www.worldscientific.com/doi/10.1142/S0218202524500040">https://www.worldscientific.com/doi/10.1142/S0218202524500040</a>, 2022 <br>
+<a href="https://www.worldscientific.com/doi/10.1142/S0218202524500040">https://www.worldscientific.com/doi/10.1142/S0218202524500040</a> <br>
 <a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2024_M3AS.pdf">PDF paper</a> <br>
 <br>
 10. <b>M.F.P. ten Eikelder</b>, K.G. van der Zee, I. Akkerman, D. Schillinger,<br>
@@ -58,19 +58,27 @@ Computer Methods Applied Mechanics and Engineering 382: 113878, 2021 <br>
 7. I. Akkerman, J.H.A. Meijer, <b>M.F.P. ten Eikelder</b>, <br>
 Isogeometric analysis of linear free-surface potential flow, <br>
 Ocean Engineering 201: article 107114, 2020 <br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0029801820301803">https://www.sciencedirect.com/science/article/abs/pii/S0029801820301803</a> <br>
+<a href="http://marcoteneikelder.github.io/files/Akkerman_2020_IGApotflow_OE.pdf">PDF paper</a> <br>
 <br>
 6. <b>M.F.P. ten Eikelder</b>, Y. Bazilevs, I. Akkerman,<br>
 A theoretical framework for discontinuity capturing: Joining variational multiscale analysis and variation entropy
 theory,<br>
 Computer Methods Applied and Mechanics Engineering 359: article 112664, 2020 <br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782519305493">https://www.sciencedirect.com/science/article/abs/pii/S0045782521002152</a> <br>
+<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2020_VMSDC_CMAME.pdf">PDF paper</a> <br>
 <br>
 5. <b>M.F.P. ten Eikelder</b>, I. Akkerman, <br>
 Variation entropy: a continuous local generalization of the TVD property using entropy principles, <br>
 Computer Methods Applied Mechanics and Engineering 355: 261-283, 2019 <br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782519303664">https://www.sciencedirect.com/science/article/abs/pii/S0045782519303664</a> <br>
+<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2019_VE_CMAME.pdf">PDF paper</a> <br>
 <br>
 4. I. Akkerman, <b>M.F.P. ten Eikelder</b>,<br>
 Toward free-surface flow simulations with correct energy evolution: an isogeometric level-set approach with monolithic time-integration,<br>
 Computers and Fluids 181: 77-89, 2019 <br>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0045793019300118">https://www.sciencedirect.com/science/article/abs/pii/S0045793019300118</a> <br>
+<a href="http://marcoteneikelder.github.io/files/Akkerman_2019_towardenergy_CF.pdf">PDF paper</a> <br>
 <br>
 3. <b>M.F.P. ten Eikelder</b>, I. Akkerman,<br>
 Correct energy evolution of stabilized formulations: The relation between VMS, SUPG and GLS via dynamic orthogonal small-scales and isogeometric analysis. II: The incompressible Navier-Stokes equations,<br>
