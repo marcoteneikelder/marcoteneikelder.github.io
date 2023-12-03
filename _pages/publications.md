@@ -11,24 +11,24 @@ The divergence-free velocity formulation of the consistent Navier-Stokes Cahn-Hi
 <br>
 15. (Under review) M.L. Mika, <b>M.F.P. ten Eikelder</b>, D. Schillinger, R.R. Hiemstra, <br>
 Matrix-free polynomial preconditioning of saddle point systems using the hyper-power method <br>
-https://arxiv.org/abs/2311.06926, 2023 <br>
+<a href="https://arxiv.org/abs/2311.06926">https://arxiv.org/abs/2311.06926</a>, 2023 <br>
 <br>
 14. (Under review) A. Ebrahem, <b>M.F.P. ten Eikelder</b>, <br>
 T. Gangwar, M.L. Mika, D. Schillinger, Connecting continuum poroelasticity with discrete synthetic vascular trees for modeling liver tissue <br>
-https://arxiv.org/abs/2306.07412, 2023 <br>
+<a href="https://arxiv.org/abs/2306.07412">https://arxiv.org/abs/2306.07412</a>, 2023 <br>
 <br>
 13. (Under review) <b>M.F.P. ten Eikelder</b>, K.G. van der Zee, D. Schillinger, <br>
 Thermodynamically consistent diffuse-interface mixture models of incompressible multicomponent fluids, <br>
-https://arxiv.org/abs/2302.09287, 2023 <br>
+<a href="https://arxiv.org/abs/2302.09287">https://arxiv.org/abs/2302.09287</a>, 2023 <br>
 <br>
 12. (Under review) J. Lotz, <b>M.F.P. ten Eikelder</b>, I. Akkerman, <br>
 A space-time framework for periodic flows with applications to hydrofoils, <br>
-https://arxiv.org/abs/2211.10964, 2022 <br>
+<a href="https://arxiv.org/abs/2211.10964">https://arxiv.org/abs/2211.10964</a>, 2022 <br>
 <br>
 11. <b>M.F.P. ten Eikelder</b>, S.K.F. Stoter, Y. Bazilevs, D. Schillinger, <br>
 Constraints for eliminating the Gibbs phenomenon in finite element approximation spaces, <br>
 Mathematical Models and Methods in Applied Sciences (to appear) <br>
-https://arxiv.org/abs/2302.04955, 2023 <br>
+<a href="https://arxiv.org/abs/2302.04955">https://arxiv.org/abs/2302.04955</a>, 2022 <br>
 <br>
 10. <b>M.F.P. ten Eikelder</b>, K.G. van der Zee, I. Akkerman, D. Schillinger,<br>
 A unified framework for Navier-Stokes Cahn-Hilliard models with non-matching densities, <br>
