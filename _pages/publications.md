@@ -8,18 +8,22 @@ author_profile: true
 16. (Under review) <b>M.F.P. ten Eikelder</b>, D. Schillinger, <br>
 The divergence-free velocity formulation of the consistent Navier-Stokes Cahn-Hilliard model with non-matching densities, divergence-conforming discretization, and benchmarks, <br>
 <a href="https://arxiv.org/abs/2311.09966">https://arxiv.org/abs/2311.09966</a>, 2023 <br>
+<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_divNSCH_arxiv.pdf">PDF paper</a> <br>
 <br>
 15. (Under review) M.L. Mika, <b>M.F.P. ten Eikelder</b>, D. Schillinger, R.R. Hiemstra, <br>
 Matrix-free polynomial preconditioning of saddle point systems using the hyper-power method <br>
 <a href="https://arxiv.org/abs/2311.06926">https://arxiv.org/abs/2311.06926</a>, 2023 <br>
+<a href="http://marcoteneikelder.github.io/files/Mika_2023_arxiv.pdf">PDF paper</a> <br>
 <br>
 14. (Under review) A. Ebrahem, <b>M.F.P. ten Eikelder</b>, <br>
 T. Gangwar, M.L. Mika, D. Schillinger, Connecting continuum poroelasticity with discrete synthetic vascular trees for modeling liver tissue <br>
 <a href="https://arxiv.org/abs/2306.07412">https://arxiv.org/abs/2306.07412</a>, 2023 <br>
+<a href="http://marcoteneikelder.github.io/files/Ebrahem_2023_arxiv.pdf">PDF paper</a> <br>
 <br>
 13. (Under review) <b>M.F.P. ten Eikelder</b>, K.G. van der Zee, D. Schillinger, <br>
 Thermodynamically consistent diffuse-interface mixture models of incompressible multicomponent fluids, <br>
 <a href="https://arxiv.org/abs/2302.09287">https://arxiv.org/abs/2302.09287</a>, 2023 <br>
+<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_mix_arxiv.pdf">PDF paper</a> <br>
 <br>
 12. (Under review) J. Lotz, <b>M.F.P. ten Eikelder</b>, I. Akkerman, <br>
 A space-time framework for periodic flows with applications to hydrofoils, <br>
