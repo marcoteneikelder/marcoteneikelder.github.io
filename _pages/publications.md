@@ -32,7 +32,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
    A Multiscale-Multiphysics Framework for Modeling Organ-scale Liver Regrowth<br>
    <i>Journal of the Mechanics and Physics of Solids</i>, 200, 106113, 2025<br>
 <a href="https://doi.org/10.1016/j.jmps.2025.106113">https://doi.org/10.1016/j.jmps.2025.106113</a><br>
-<a href="https://arxiv.org/abs/2410.19529">https://arxiv.org/abs/2410.19529</a> 
+<a href="https://arxiv.org/abs/2410.19529">https://arxiv.org/abs/2410.19529</a></li> 
 </ol>
 <!-- YEAR: 2024 -->
 <div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2024</div>
