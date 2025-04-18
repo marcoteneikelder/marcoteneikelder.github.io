@@ -7,10 +7,8 @@ author_profile: true
 <font size="5">  
     Journal articles
 </font>
-<ol reversed>        
-<li style="list-style: none; margin-top: 1.5em;">
-  <div style="font-size: 1.4em; font-weight: bold;">2025</div>
-</li>
+<div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2025</div>
+<ol reversed>  
    <li><i> Under review </i><br> A. Brunk, <b>M.F.P. ten Eikelder</b><br>
    A simple fully-discrete energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard mixture model with non-matching densities<br>
    Submitted to <i>Journal of Computational Physics</i></li>
@@ -31,9 +29,10 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
 <li>A. Ebrahem, J. Hohl, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    A Multiscale-Multiphysics Framework for Modeling Organ-scale Liver Regrowth<br>
    <i>Journal of the Mechanics and Physics of Solids</i> 200: 106113, 2025</li> 
-<li style="list-style: none; margin-top: 1.5em;">
-  <div style="font-size: 1.4em; font-weight: bold;">2024</div>
-</li>
+</ol>
+<!-- YEAR: 2024 -->
+<div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2024</div>
+<ol reversed start="16">
 <li>V. Badrkhani, R.R. Hiemstra, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    The matrix-free macro-element hybridized discontinuous Galerkin method for compressible turbulent flows<br>
    <i>International Journal of Numerical Methods in Fluids</i>, 2024</li>
