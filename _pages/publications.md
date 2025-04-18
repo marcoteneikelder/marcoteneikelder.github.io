@@ -23,14 +23,16 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
 T. Gangwar, M.L. Mika, D. Schillinger, Connecting continuum poroelasticity with discrete synthetic vascular trees for modeling liver tissue <br>
 <a href="https://arxiv.org/abs/2306.07412">https://arxiv.org/abs/2306.07412</a>, 2023 <br>
 <a href="http://marcoteneikelder.github.io/files/Ebrahem_2023_arxiv.pdf">PDF paper</a></li>
-  <li><i> Under review </i><br> <b>M.F.P. ten Eikelder</b>, K.G. van der Zee, D. Schillinger <br>
-Thermodynamically consistent diffuse-interface mixture models of incompressible multicomponent fluids, <br>
-<a href="https://arxiv.org/abs/2302.09287">https://arxiv.org/abs/2302.09287</a>, 2023 <br>
-<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_mix_arxiv.pdf">PDF paper</a></li>
-  <li><i> Under review </i><br> J. Lotz, <b>M.F.P. ten Eikelder</b>, I. Akkerman <br>
-A space-time framework for periodic flows with applications to hydrofoils, <br>
-<a href="https://arxiv.org/abs/2211.10964">https://arxiv.org/abs/2211.10964</a>, 2022 <br>
-<a href="http://marcoteneikelder.github.io/files/Lotz_2022_arxiv.pdf">PDF paper</a></li>
+  <li><b>M.F.P. ten Eikelder</b>, K.G. van der Zee, D. Schillinger<br>
+   Thermodynamically consistent diffuse-interface mixture models of incompressible multicomponent fluids<br>
+   <i>Journal of Fluid Mechanics</i> 990, A8, 2024<br>
+   <a href="https://arxiv.org/abs/2302.09287">https://arxiv.org/abs/2302.09287</a><br>
+   <a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_mix_arxiv.pdf">PDF paper</a></li>
+   <li>J. Lotz, <b>M.F.P. ten Eikelder</b>, I. Akkerman<br>
+   Space–time computations of exactly time-periodic flows past hydrofoils<br>
+   <i>Computers and Fluids</i> 277: 106286, 2024<br>
+   <a href="https://arxiv.org/abs/2211.10964">https://arxiv.org/abs/2211.10964</a><br>
+   <a href="http://marcoteneikelder.github.io/files/Lotz_2022_arxiv.pdf">PDF paper</a></li>
   <li>A. Ebrahem, E. Jessen, <b>M.F.P. ten Eikelder</b>, T. Gangwar, M.L. Mika, D. Schillinger<br>
 Connecting continuum poroelasticity with discrete synthetic vascular trees for modeling liver tissue<br>
    <i>Proceedings of the Royal Society A</i> 480: 20230421, 2024<br>
