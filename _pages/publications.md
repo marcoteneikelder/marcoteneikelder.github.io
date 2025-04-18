@@ -69,11 +69,11 @@ Mathematical Models and Methods in Applied Sciences, 2024 <br>
 A unified framework for Navier-Stokes Cahn-Hilliard models with non-matching densities, <br>
 Mathematical Models and Methods in Applied Sciences 33, 175-221, 2023 <br>
 <a href="https://www.worldscientific.com/doi/abs/10.1142/S0218202523500069">https://www.worldscientific.com/doi/abs/10.1142/S0218202523500069</a> <br>
+<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_NSCH_M3AS.pdf">PDF paper</a></li>
 </ol>
 <!-- YEAR: 2021 -->
 <div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2021</div>
 <ol reversed start="9">
-<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_NSCH_M3AS.pdf">PDF paper</a></li>
   <li><b>M.F.P. ten Eikelder</b>, I. Akkerman <br>
 A novel diffuse-interface model and a fully-discrete maximum-principle-preserving energy-stable method for two-phase flow with
 surface tension and non-matching densities,<br>
