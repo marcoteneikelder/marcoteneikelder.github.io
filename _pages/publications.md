@@ -43,7 +43,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
   <li><b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    The divergence-free velocity formulation of the consistent Navier-Stokes Cahn-Hilliard model with non-matching densities, divergence-conforming discretization, and benchmarks<br>
    <span style="color: #3b7c78;"><b>Journal of Computational Physics</b></span> 513: 113148, 2024<br>
-   <a href="https://arxiv.org/abs/2311.09966">https://arxiv.org/abs/2311.09966</a><br>
+   <a href="https://arxiv.org/abs/2311.09966" style="color: #1a4d2e !important;">https://arxiv.org/abs/2311.09966</a><br>
    <a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_divNSCH_arxiv.pdf">PDF paper</a></li>
   <li><b>M.F.P. ten Eikelder</b>, K.G. van der Zee, D. Schillinger<br>
    Thermodynamically consistent diffuse-interface mixture models of incompressible multicomponent fluids<br>
