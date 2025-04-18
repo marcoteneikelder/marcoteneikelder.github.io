@@ -11,18 +11,31 @@ author_profile: true
    <li><i> Under review </i><br> A. Brunk, <b>M.F.P. ten Eikelder</b><br>
    A simple fully-discrete energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard mixture model with non-matching densities<br>
    Submitted to <i>Journal of Computational Physics</i></li>
-   <li><i> Under review </i><br> <b>M.F.P. ten Eikelder</b>, D. Schillinger <br>
-The divergence-free velocity formulation of the consistent Navier-Stokes Cahn-Hilliard model with non-matching densities, divergence-conforming discretization, and benchmarks, <br>
-<a href="https://arxiv.org/abs/2311.09966">https://arxiv.org/abs/2311.09966</a>, 2023 <br>
-<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_divNSCH_arxiv.pdf">PDF paper</a></li>
+<li><i> Under review </i><br> <b>M.F.P. ten Eikelder</b>, E.H. van Brummelen, D. Schillinger <br>
+   Compressible N-phase fluid mixture models<br>
+   Submitted to <i>Journal of Fluid Mechanics</i></li>
+   <li><i> Under review </i><br> J. Hohl, A. Ebrahem, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
+   A Multi-compartment Homogenized Perfusion Model for Deforming Hierarchical Vasculature<br>
+   Submitted to <i>Biomechanics and Modeling in Mechanobiology</i></li>
   <li><i> Under review </i><br> M.L. Mika, <b>M.F.P. ten Eikelder</b>, D. Schillinger, R.R. Hiemstra <br>
 Matrix-free polynomial preconditioning of saddle point systems using the hyper-power method <br>
 <a href="https://arxiv.org/abs/2311.06926">https://arxiv.org/abs/2311.06926</a>, 2023 <br>
 <a href="http://marcoteneikelder.github.io/files/Mika_2023_arxiv.pdf">PDF paper</a></li>
-  <li><i> Under review </i><br> A. Ebrahem, <b>M.F.P. ten Eikelder</b> <br>
-T. Gangwar, M.L. Mika, D. Schillinger, Connecting continuum poroelasticity with discrete synthetic vascular trees for modeling liver tissue <br>
-<a href="https://arxiv.org/abs/2306.07412">https://arxiv.org/abs/2306.07412</a>, 2023 <br>
-<a href="http://marcoteneikelder.github.io/files/Ebrahem_2023_arxiv.pdf">PDF paper</a></li>
+<li><b>M.F.P. ten Eikelder</b><br>
+   A unified framework for N-phase Navier-Stokes Cahn-Hilliard Allen-Cahn mixture models with non-matching densities<br>
+   <i>Journal of Fluid Mechanics</i> (to appear), 2024<br>
+   <a href="https://www.arxiv.org/abs/2407.20145">https://www.arxiv.org/abs/2407.20145</a></li>
+<li>A. Ebrahem, J. Hohl, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
+   A Multiscale-Multiphysics Framework for Modeling Organ-scale Liver Regrowth<br>
+   <i>Journal of the Mechanics and Physics of Solids</i> 200: 106113, 2025</li>
+<li>V. Badrkhani, R.R. Hiemstra, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
+   The matrix-free macro-element hybridized discontinuous Galerkin method for compressible turbulent flows<br>
+   <i>International Journal of Numerical Methods in Fluids</i>, 2024</li>
+  <li><b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
+   The divergence-free velocity formulation of the consistent Navier-Stokes Cahn-Hilliard model with non-matching densities, divergence-conforming discretization, and benchmarks<br>
+   <i>Journal of Computational Physics</i> 513: 113148, 2024<br>
+   <a href="https://arxiv.org/abs/2311.09966">https://arxiv.org/abs/2311.09966</a><br>
+   <a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_divNSCH_arxiv.pdf">PDF paper</a></li>
   <li><b>M.F.P. ten Eikelder</b>, K.G. van der Zee, D. Schillinger<br>
    Thermodynamically consistent diffuse-interface mixture models of incompressible multicomponent fluids<br>
    <i>Journal of Fluid Mechanics</i> 990, A8, 2024<br>
