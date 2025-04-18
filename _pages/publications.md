@@ -59,12 +59,12 @@ Connecting continuum poroelasticity with discrete synthetic vascular trees for m
   <li><b>M.F.P. ten Eikelder</b>, S.K.F. Stoter, Y. Bazilevs, D. Schillinger <br>
 Constraints for eliminating the Gibbs phenomenon in finite element approximation spaces, <br>
 Mathematical Models and Methods in Applied Sciences, 2024 <br>
-<a href="https://www.worldscientific.com/doi/10.1142/S0218202524500040">https://www.worldscientific.com/doi/10.1142/S0218202524500040</a> <br>      
+<a href="https://www.worldscientific.com/doi/10.1142/S0218202524500040">https://www.worldscientific.com/doi/10.1142/S0218202524500040</a> <br>
+<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_constraints_arxiv.pdf">PDF paper</a></li>      
 </ol>
 <!-- YEAR: 2023 -->
 <div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2023</div>
 <ol reversed start="10">
-<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_constraints_arxiv.pdf">PDF paper</a></li>
   <li><b>M.F.P. ten Eikelder</b>, K.G. van der Zee, I. Akkerman, D. Schillinger<br>
 A unified framework for Navier-Stokes Cahn-Hilliard models with non-matching densities, <br>
 Mathematical Models and Methods in Applied Sciences 33, 175-221, 2023 <br>
