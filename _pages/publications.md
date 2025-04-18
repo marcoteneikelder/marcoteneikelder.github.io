@@ -139,8 +139,9 @@ Computer Methods Applied Mechanics and Engineering 331: 259-280, 2018 <br>
   <li><b>M.F.P. ten Eikelder</b>, F. Daude, B. Koren, A.S. Tijsseling <br>
 An acoustic-convective splitting-based approach for the Kapila two-phase flow model, <br>
 Journal of Computational Physics 331: 188-208, 2017 <br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0021999116306234">https://www.sciencedirect.com/science/article/abs/pii/S0021999116306234</a> <br>
-<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2017_JCP.pdf" style="color: #1a4d2e !important;">pdf article</a></li>
+<a href="https://doi.org/10.1016/j.jcp.2016.11.031">https://doi.org/10.1016/j.jcp.2016.11.031</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2017_JCP.pdf" style="color: #1a4d2e !important;">pdf article</a></b>
+  </li>
 </ol>
 <br>
 <font size="5">  
