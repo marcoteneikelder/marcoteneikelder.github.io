@@ -27,7 +27,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
 <li><b>M.F.P. ten Eikelder</b><br>
    A unified framework for N-phase Navier-Stokes Cahn-Hilliard Allen-Cahn mixture models with non-matching densities<br>
    <i>Journal of Fluid Mechanics</i> 2025 (to appear) <br>
-   <a href="https://www.arxiv.org/abs/2407.20145">https://www.arxiv.org/abs/2407.20145</a></li>
+   <a href="https://www.arxiv.org/abs/2407.20145" style="color: #4a4a4a;">https://www.arxiv.org/abs/2407.20145</a></li>
 <li>A. Ebrahem, J. Hohl, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    A Multiscale-Multiphysics Framework for Modeling Organ-scale Liver Regrowth<br>
    <i>Journal of the Mechanics and Physics of Solids</i>, 200, 106113, 2025<br>
