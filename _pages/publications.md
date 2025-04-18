@@ -131,7 +131,8 @@ Computer Methods Applied Mechanics and Engineering 340: 1135-1159, 2018 <br>
 Correct energy evolution of stabilized formulations: The relation between VMS, SUPG and GLS via dynamic orthogonal small-scales and isogeometric analysis. I: The convective-diffusive context, <br>
 Computer Methods Applied Mechanics and Engineering 331: 259-280, 2018 <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S004578251730720X">https://www.sciencedirect.com/science/article/abs/pii/S004578251730720X</a> <br>
-<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2018_energyCD_arxiv.pdf">pdf article</a></li>
+<b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2018_energyCD_arxiv.pdf" style="color: #1a4d2e !important;">pdf article</a></b>
+  </li>
 </ol>
 <!-- YEAR: 2017 -->
 <div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2017</div>
