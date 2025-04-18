@@ -9,26 +9,30 @@ author_profile: true
 </font>
 <div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2025</div>
 <ol reversed start="22">  
-   <li><i> Under review </i><br> A. Brunk, <b>M.F.P. ten Eikelder</b><br>
+<li><i> Under review </i><br> A. Brunk, <b>M.F.P. ten Eikelder</b><br>
    A simple fully-discrete energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard mixture model with non-matching densities<br>
-   Submitted to <i>Journal of Computational Physics</i></li>
+   <a href="https://arxiv.org/abs/2504.00688">https://arxiv.org/abs/2504.00688</a>
+</li>
 <li><i> Under review </i><br> <b>M.F.P. ten Eikelder</b>, E.H. van Brummelen, D. Schillinger <br>
    Compressible N-phase fluid mixture models<br>
-   Submitted to <i>Journal of Fluid Mechanics</i></li>
+   <a href="https://arxiv.org/abs/2503.24225">https://arxiv.org/abs/2503.24225</a>
+</li>
    <li><i> Under review </i><br> J. Hohl, A. Ebrahem, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    A Multi-compartment Homogenized Perfusion Model for Deforming Hierarchical Vasculature<br>
-   Submitted to <i>Biomechanics and Modeling in Mechanobiology</i></li>
+   </li>
   <li><i> Under review </i><br> M.L. Mika, <b>M.F.P. ten Eikelder</b>, D. Schillinger, R.R. Hiemstra <br>
 Matrix-free polynomial preconditioning of saddle point systems using the hyper-power method <br>
-<a href="https://arxiv.org/abs/2311.06926">https://arxiv.org/abs/2311.06926</a>, 2023 <br>
+<a href="https://arxiv.org/abs/2311.06926">https://arxiv.org/abs/2311.06926</a> <br>
 <a href="http://marcoteneikelder.github.io/files/Mika_2023_arxiv.pdf">PDF paper</a></li>
 <li><b>M.F.P. ten Eikelder</b><br>
    A unified framework for N-phase Navier-Stokes Cahn-Hilliard Allen-Cahn mixture models with non-matching densities<br>
-   <i>Journal of Fluid Mechanics</i> (to appear), 2024<br>
+   <i>Journal of Fluid Mechanics</i>2025 (to appear)<br>
    <a href="https://www.arxiv.org/abs/2407.20145">https://www.arxiv.org/abs/2407.20145</a></li>
 <li>A. Ebrahem, J. Hohl, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    A Multiscale-Multiphysics Framework for Modeling Organ-scale Liver Regrowth<br>
-   <i>Journal of the Mechanics and Physics of Solids</i> 200: 106113, 2025</li> 
+   <i>Journal of the Mechanics and Physics of Solids</i>, 200, 106113, 2025<br>
+<a href="https://doi.org/10.1016/j.jmps.2025.106113">https://doi.org/10.1016/j.jmps.2025.106113</a><br>
+<a href="https://arxiv.org/abs/2410.19529">https://arxiv.org/abs/2410.19529</a> 
 </ol>
 <!-- YEAR: 2024 -->
 <div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2024</div>
