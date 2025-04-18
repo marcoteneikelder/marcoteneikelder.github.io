@@ -126,7 +126,8 @@ Computers and Fluids 181: 77-89, 2019 <br>
 Correct energy evolution of stabilized formulations: The relation between VMS, SUPG and GLS via dynamic orthogonal small-scales and isogeometric analysis. II: The incompressible Navier-Stokes equations,<br>
 Computer Methods Applied Mechanics and Engineering 340: 1135-1159, 2018 <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782518301105">https://www.sciencedirect.com/science/article/abs/pii/S0045782518301105</a> <br>
-<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2018_energyNS_arxiv.pdf">pdf article</a></li>
+<b></b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2018_energyNS_arxiv.pdf" style="color: #4a4a4a !important;">pdf article</a></b>>pdf article</a></li>b>
+</li>
   <li><b>M.F.P. ten Eikelder</b>, I. Akkerman <br>
 Correct energy evolution of stabilized formulations: The relation between VMS, SUPG and GLS via dynamic orthogonal small-scales and isogeometric analysis. I: The convective-diffusive context, <br>
 Computer Methods Applied Mechanics and Engineering 331: 259-280, 2018 <br>
