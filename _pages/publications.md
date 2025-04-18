@@ -7,7 +7,10 @@ author_profile: true
 <font size="5">  
     Journal articles
 </font>
-<ol reversed>
+<ol reversed>    
+   <li><i> Under review </i><br> A. Brunk, <b>M.F.P. ten Eikelder</b><br>
+   A simple fully-discrete energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard mixture model with non-matching densities<br>
+   Submitted to <i>Journal of Computational Physics</i></li>
    <li><i> Under review </i><br> <b>M.F.P. ten Eikelder</b>, D. Schillinger <br>
 The divergence-free velocity formulation of the consistent Navier-Stokes Cahn-Hilliard model with non-matching densities, divergence-conforming discretization, and benchmarks, <br>
 <a href="https://arxiv.org/abs/2311.09966">https://arxiv.org/abs/2311.09966</a>, 2023 <br>
