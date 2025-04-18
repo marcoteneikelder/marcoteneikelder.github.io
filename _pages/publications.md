@@ -31,6 +31,11 @@ Thermodynamically consistent diffuse-interface mixture models of incompressible 
 A space-time framework for periodic flows with applications to hydrofoils, <br>
 <a href="https://arxiv.org/abs/2211.10964">https://arxiv.org/abs/2211.10964</a>, 2022 <br>
 <a href="http://marcoteneikelder.github.io/files/Lotz_2022_arxiv.pdf">PDF paper</a></li>
+  <li>A. Ebrahem, E. Jessen, <b>M.F.P. ten Eikelder</b>, T. Gangwar, M.L. Mika, D. Schillinger<br>
+Connecting continuum poroelasticity with discrete synthetic vascular trees for modeling liver tissue<br>
+   <i>Proceedings of the Royal Society A</i> 480: 20230421, 2024<br>
+   <a href="https://arxiv.org/abs/2306.07412">https://arxiv.org/abs/2306.07412</a><br>
+   <a href="http://marcoteneikelder.github.io/files/Ebrahem_2023_arxiv.pdf">PDF paper</a></li>
   <li><b>M.F.P. ten Eikelder</b>, S.K.F. Stoter, Y. Bazilevs, D. Schillinger <br>
 Constraints for eliminating the Gibbs phenomenon in finite element approximation spaces, <br>
 Mathematical Models and Methods in Applied Sciences, 2023 (to appear) <br>
