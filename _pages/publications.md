@@ -26,7 +26,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
 <a href="http://marcoteneikelder.github.io/files/Mika_2023_arxiv.pdf">PDF paper</a></li>
 <li><b>M.F.P. ten Eikelder</b><br>
    A unified framework for N-phase Navier-Stokes Cahn-Hilliard Allen-Cahn mixture models with non-matching densities<br>
-   <i>Journal of Fluid Mechanics</i>2025 (to appear)<br>
+   <i>Journal of Fluid Mechanics</i> 2025 (to appear) <br>
    <a href="https://www.arxiv.org/abs/2407.20145">https://www.arxiv.org/abs/2407.20145</a></li>
 <li>A. Ebrahem, J. Hohl, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    A Multiscale-Multiphysics Framework for Modeling Organ-scale Liver Regrowth<br>
@@ -42,7 +42,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
    <i>International Journal of Numerical Methods in Fluids</i>, 2024</li>
   <li><b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    The divergence-free velocity formulation of the consistent Navier-Stokes Cahn-Hilliard model with non-matching densities, divergence-conforming discretization, and benchmarks<br>
-   <i>Journal of Computational Physics</i> 513: 113148, 2024<br>
+   <span style="color: #2a4d69;"><i>Journal of Computational Physics</i></span> 513: 113148, 2024<br>
    <a href="https://arxiv.org/abs/2311.09966">https://arxiv.org/abs/2311.09966</a><br>
    <a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_divNSCH_arxiv.pdf">PDF paper</a></li>
   <li><b>M.F.P. ten Eikelder</b>, K.G. van der Zee, D. Schillinger<br>
