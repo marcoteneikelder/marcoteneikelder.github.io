@@ -96,6 +96,7 @@ Nitsche’s method as a variational multiscale formulation and a resulting bound
 Computer Methods Applied Mechanics and Engineering 382: 113878, 2021 <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782521002152">https://www.sciencedirect.com/science/article/abs/pii/S0045782521002152</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/Stoter_2021_VMSNitsche_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+</li>
 </ol>
 <!-- YEAR: 2020 -->
 <div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2020</div>
