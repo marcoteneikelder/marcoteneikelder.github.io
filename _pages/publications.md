@@ -140,7 +140,7 @@ Computer Methods Applied Mechanics and Engineering 331: 259-280, 2018 <br>
 An acoustic-convective splitting-based approach for the Kapila two-phase flow model, <br>
 Journal of Computational Physics 331: 188-208, 2017 <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021999116306234">https://www.sciencedirect.com/science/article/abs/pii/S0021999116306234</a> <br>
-<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2017_JCP.pdf" style="color: #4a4a4a !important;">pdf article</a></li>
+<a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2017_JCP.pdf" style="color: #1a4d2e !important;">pdf article</a></li>
 </ol>
 <br>
 <font size="5">  
