@@ -26,11 +26,11 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
 <a href="http://marcoteneikelder.github.io/files/Mika_2023_arxiv.pdf">PDF paper</a></li>
 <li><b>M.F.P. ten Eikelder</b><br>
    A unified framework for N-phase Navier-Stokes Cahn-Hilliard Allen-Cahn mixture models with non-matching densities<br>
-   <i>Journal of Fluid Mechanics</i> 2025 (to appear) <br>
+   <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 2025 (to appear) <br>
    <a href="https://www.arxiv.org/abs/2407.20145" style="color: #4a4a4a;">https://www.arxiv.org/abs/2407.20145</a></li>
 <li>A. Ebrahem, J. Hohl, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    A Multiscale-Multiphysics Framework for Modeling Organ-scale Liver Regrowth<br>
-   <i>Journal of the Mechanics and Physics of Solids</i>, 200, 106113, 2025<br>
+   <span style="color: #3b7c78;"><b>Journal of the Mechanics and Physics of Solids</b></span>, 200, 106113, 2025<br>
 <a href="https://doi.org/10.1016/j.jmps.2025.106113">https://doi.org/10.1016/j.jmps.2025.106113</a><br>
 <a href="https://arxiv.org/abs/2410.19529">https://arxiv.org/abs/2410.19529</a></li> 
 </ol>
@@ -48,25 +48,25 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
   </li>
   <li><b>M.F.P. ten Eikelder</b>, K.G. van der Zee, D. Schillinger<br>
    Thermodynamically consistent diffuse-interface mixture models of incompressible multicomponent fluids<br>
-   <i>Journal of Fluid Mechanics</i> 990, A8, 2024<br>
+   <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 990, A8, 2024<br>
    <a href="https://arxiv.org/abs/2302.09287" style="color: #4a4a4a !important;">https://arxiv.org/abs/2302.09287</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_mix_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
    </li>
    <li>J. Lotz, <b>M.F.P. ten Eikelder</b>, I. Akkerman<br>
    Space–time computations of exactly time-periodic flows past hydrofoils<br>
-   <i>Computers and Fluids</i> 277: 106286, 2024<br>
+   <span style="color: #3b7c78;"><b>Computers and Fluids</b></span> 277: 106286, 2024<br>
    <a href="https://arxiv.org/abs/2211.10964" style="color: #4a4a4a !important;">https://arxiv.org/abs/2211.10964</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/Lotz_2022_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
    </li>
   <li>A. Ebrahem, E. Jessen, <b>M.F.P. ten Eikelder</b>, T. Gangwar, M.L. Mika, D. Schillinger<br>
 Connecting continuum poroelasticity with discrete synthetic vascular trees for modeling liver tissue<br>
-   <i>Proceedings of the Royal Society A</i> 480: 20230421, 2024<br>
+   <span style="color: #3b7c78;"><b>Proceedings of the Royal Society A</b></span> 480: 20230421, 2024<br>
    <a href="https://arxiv.org/abs/2306.07412" style="color: #4a4a4a !important;">https://arxiv.org/abs/2306.07412</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/Ebrahem_2023_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
   </li>
   <li><b>M.F.P. ten Eikelder</b>, S.K.F. Stoter, Y. Bazilevs, D. Schillinger <br>
 Constraints for eliminating the Gibbs phenomenon in finite element approximation spaces, <br>
-Mathematical Models and Methods in Applied Sciences, 2024 <br>
+<span style="color: #3b7c78;"><b>Mathematical Models and Methods in Applied Sciences</b></span>, 2024 <br>
 <a href="https://www.worldscientific.com/doi/10.1142/S0218202524500040">https://www.worldscientific.com/doi/10.1142/S0218202524500040</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_constraints_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>      
@@ -76,7 +76,7 @@ Mathematical Models and Methods in Applied Sciences, 2024 <br>
 <ol reversed start="10">
   <li><b>M.F.P. ten Eikelder</b>, K.G. van der Zee, I. Akkerman, D. Schillinger<br>
 A unified framework for Navier-Stokes Cahn-Hilliard models with non-matching densities, <br>
-Mathematical Models and Methods in Applied Sciences 33, 175-221, 2023 <br>
+<span style="color: #3b7c78;"><b>Mathematical Models and Methods in Applied Sciences</b></span> 33, 175-221, 2023 <br>
 <a href="https://www.worldscientific.com/doi/abs/10.1142/S0218202523500069">https://www.worldscientific.com/doi/abs/10.1142/S0218202523500069</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_NSCH_M3AS.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
@@ -87,13 +87,13 @@ Mathematical Models and Methods in Applied Sciences 33, 175-221, 2023 <br>
   <li><b>M.F.P. ten Eikelder</b>, I. Akkerman <br>
 A novel diffuse-interface model and a fully-discrete maximum-principle-preserving energy-stable method for two-phase flow with
 surface tension and non-matching densities,<br>
-Computer Methods Applied Mechanics and Engineering 379: 113751, 2021<br>
+<span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 379: 113751, 2021<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0045782521000876">https://www.sciencedirect.com/science/article/pii/S0045782521000876</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2021_energyLS_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
   <li>S.K.F. Stoter, <b>M.F.P. ten Eikelder</b>, F. de Prenter, I. Akkerman, E.H. van Brummelen, C.V. Verhoosel, D. Schillinger <br>
 Nitsche’s method as a variational multiscale formulation and a resulting boundary layer fine-scale model, <br>
-Computer Methods Applied Mechanics and Engineering 382: 113878, 2021 <br>
+<span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 382: 113878, 2021 <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782521002152">https://www.sciencedirect.com/science/article/abs/pii/S0045782521002152</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/Stoter_2021_VMSNitsche_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
@@ -103,14 +103,14 @@ Computer Methods Applied Mechanics and Engineering 382: 113878, 2021 <br>
 <ol reversed start="7">
   <li>I. Akkerman, J.H.A. Meijer, <b>M.F.P. ten Eikelder</b> <br>
 Isogeometric analysis of linear free-surface potential flow, <br>
-Ocean Engineering 201: article 107114, 2020 <br>
+<span style="color: #3b7c78;"><b>Ocean Engineering</b></span> 201: article 107114, 2020 <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0029801820301803">https://www.sciencedirect.com/science/article/abs/pii/S0029801820301803</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/Akkerman_2020_IGApotflow_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
   <li><b>M.F.P. ten Eikelder</b>, Y. Bazilevs, I. Akkerman<br>
 A theoretical framework for discontinuity capturing: Joining variational multiscale analysis and variation entropy
 theory,<br>
-Computer Methods Applied and Mechanics Engineering 359: article 112664, 2020 <br>
+<span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 359: article 112664, 2020 <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782519305493">https://www.sciencedirect.com/science/article/abs/pii/S0045782521002152</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2020_VMSDC_CMAME.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
@@ -120,13 +120,13 @@ Computer Methods Applied and Mechanics Engineering 359: article 112664, 2020 <br
 <ol reversed start="5">
   <li><b>M.F.P. ten Eikelder</b>, I. Akkerman <br>
 Variation entropy: a continuous local generalization of the TVD property using entropy principles, <br>
-Computer Methods Applied Mechanics and Engineering 355: 261-283, 2019 <br>
+<span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 355: 261-283, 2019 <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782519303664">https://www.sciencedirect.com/science/article/abs/pii/S0045782519303664</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2019_VE_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
   <li>I. Akkerman, <b>M.F.P. ten Eikelder</b><br>
 Toward free-surface flow simulations with correct energy evolution: an isogeometric level-set approach with monolithic time-integration,<br>
-Computers and Fluids 181: 77-89, 2019 <br>
+<span style="color: #3b7c78;"><b>Computers and Fluids</b></span> 181: 77-89, 2019 <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045793019300118">https://www.sciencedirect.com/science/article/abs/pii/S0045793019300118</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/Akkerman_2019_towardenergy_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
@@ -136,13 +136,13 @@ Computers and Fluids 181: 77-89, 2019 <br>
 <ol reversed start="3">
   <li><b>M.F.P. ten Eikelder</b>, I. Akkerman<br>
 Correct energy evolution of stabilized formulations: The relation between VMS, SUPG and GLS via dynamic orthogonal small-scales and isogeometric analysis. II: The incompressible Navier-Stokes equations,<br>
-Computer Methods Applied Mechanics and Engineering 340: 1135-1159, 2018 <br>
+<span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 340: 1135-1159, 2018 <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782518301105">https://www.sciencedirect.com/science/article/abs/pii/S0045782518301105</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2018_energyNS_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
   <li><b>M.F.P. ten Eikelder</b>, I. Akkerman <br>
 Correct energy evolution of stabilized formulations: The relation between VMS, SUPG and GLS via dynamic orthogonal small-scales and isogeometric analysis. I: The convective-diffusive context, <br>
-Computer Methods Applied Mechanics and Engineering 331: 259-280, 2018 <br>
+<span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 331: 259-280, 2018 <br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S004578251730720X">https://www.sciencedirect.com/science/article/abs/pii/S004578251730720X</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2018_energyCD_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
   </li>
@@ -152,7 +152,7 @@ Computer Methods Applied Mechanics and Engineering 331: 259-280, 2018 <br>
 <ol reversed start="1">
   <li><b>M.F.P. ten Eikelder</b>, F. Daude, B. Koren, A.S. Tijsseling <br>
 An acoustic-convective splitting-based approach for the Kapila two-phase flow model, <br>
-Journal of Computational Physics 331: 188-208, 2017 <br>
+<span style="color: #3b7c78;"><b>Journal of Computational Physics</b></span> 331: 188-208, 2017 <br>
 <a href="https://doi.org/10.1016/j.jcp.2016.11.031">https://doi.org/10.1016/j.jcp.2016.11.031</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2017_JCP.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
   </li>
