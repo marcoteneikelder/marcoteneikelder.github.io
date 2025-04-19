@@ -53,7 +53,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
    The divergence-free velocity formulation of the consistent Navier-Stokes Cahn-Hilliard model with non-matching densities, divergence-conforming discretization, and benchmarks<br>
    <span style="color: #3b7c78;"><b>Journal of Computational Physics</b></span> 513: 113148, 2024<br>
    <a href="https://doi.org/10.1016/j.jcp.2024.113148">https://doi.org/10.1016/j.jcp.2024.113148</a><br>
-   <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_divNSCH_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+   <b><a href="http://marcoteneikelder.github.io/files/2024_ten_Eikelder_JCP.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
   </li>
   <li><b>M.F.P. ten Eikelder</b>, K.G. van der Zee, D. Schillinger<br>
    Thermodynamically consistent diffuse-interface mixture models of incompressible multicomponent fluids<br>
@@ -71,7 +71,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
 Connecting continuum poroelasticity with discrete synthetic vascular trees for modeling liver tissue<br>
    <span style="color: #3b7c78;"><b>Proceedings of the Royal Society A</b></span> 480: 20230421, 2024<br>
    <a href="https://doi.org/10.1098/rspa.2023.0421">https://doi.org/10.1098/rspa.2023.0421</a><br>
-   <b><a href="http://marcoteneikelder.github.io/files/Ebrahem_2023_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+   <b><a href="http://marcoteneikelder.github.io/files/2024_Ebrahem_PRSA.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
   </li>
   <li><b>M.F.P. ten Eikelder</b>, S.K.F. Stoter, Y. Bazilevs, D. Schillinger <br>
 Constraints for eliminating the Gibbs phenomenon in finite element approximation spaces, <br>
