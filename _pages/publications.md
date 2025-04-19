@@ -55,19 +55,19 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
    <li>J. Lotz, <b>M.F.P. ten Eikelder</b>, I. Akkerman<br>
    Space–time computations of exactly time-periodic flows past hydrofoils<br>
    <span style="color: #3b7c78;"><b>Computers and Fluids</b></span> 277: 106286, 2024<br>
-   <a href="https://arxiv.org/abs/2211.10964" style="color: #4a4a4a !important;">https://arxiv.org/abs/2211.10964</a><br>
+   <a href="https://doi.org/10.1016/j.compfluid.2024.106286">https://doi.org/10.1016/j.compfluid.2024.106286</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/Lotz_2022_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
    </li>
   <li>A. Ebrahem, E. Jessen, <b>M.F.P. ten Eikelder</b>, T. Gangwar, M.L. Mika, D. Schillinger<br>
 Connecting continuum poroelasticity with discrete synthetic vascular trees for modeling liver tissue<br>
    <span style="color: #3b7c78;"><b>Proceedings of the Royal Society A</b></span> 480: 20230421, 2024<br>
-   <a href="https://arxiv.org/abs/2306.07412" style="color: #4a4a4a !important;">https://arxiv.org/abs/2306.07412</a><br>
+   <a href="https://doi.org/10.1098/rspa.2023.0421">https://doi.org/10.1098/rspa.2023.0421</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/Ebrahem_2023_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
   </li>
   <li><b>M.F.P. ten Eikelder</b>, S.K.F. Stoter, Y. Bazilevs, D. Schillinger <br>
 Constraints for eliminating the Gibbs phenomenon in finite element approximation spaces, <br>
 <span style="color: #3b7c78;"><b>Mathematical Models and Methods in Applied Sciences</b></span>, 2024 <br>
-<a href="https://www.worldscientific.com/doi/10.1142/S0218202524500040">https://www.worldscientific.com/doi/10.1142/S0218202524500040</a> <br>
+<a href="https://doi.org/10.1142/S0218202524500040">https://doi.org/10.1142/S0218202524500040</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_constraints_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>      
 </ol>
@@ -77,7 +77,7 @@ Constraints for eliminating the Gibbs phenomenon in finite element approximation
   <li><b>M.F.P. ten Eikelder</b>, K.G. van der Zee, I. Akkerman, D. Schillinger<br>
 A unified framework for Navier-Stokes Cahn-Hilliard models with non-matching densities, <br>
 <span style="color: #3b7c78;"><b>Mathematical Models and Methods in Applied Sciences</b></span> 33, 175-221, 2023 <br>
-<a href="https://www.worldscientific.com/doi/abs/10.1142/S0218202523500069">https://www.worldscientific.com/doi/abs/10.1142/S0218202523500069</a> <br>
+<a href="https://doi.org/10.1142/S0218202523500069">https://doi.org/10.1142/S0218202523500069</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_NSCH_M3AS.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
 </ol>
@@ -88,13 +88,13 @@ A unified framework for Navier-Stokes Cahn-Hilliard models with non-matching den
 A novel diffuse-interface model and a fully-discrete maximum-principle-preserving energy-stable method for two-phase flow with
 surface tension and non-matching densities,<br>
 <span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 379: 113751, 2021<br>
-<a href="https://www.sciencedirect.com/science/article/pii/S0045782521000876">https://www.sciencedirect.com/science/article/pii/S0045782521000876</a> <br>
+<a href="https://doi.org/10.1016/j.cma.2021.113751">https://doi.org/10.1016/j.cma.2021.113751</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2021_energyLS_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
   <li>S.K.F. Stoter, <b>M.F.P. ten Eikelder</b>, F. de Prenter, I. Akkerman, E.H. van Brummelen, C.V. Verhoosel, D. Schillinger <br>
 Nitsche’s method as a variational multiscale formulation and a resulting boundary layer fine-scale model, <br>
 <span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 382: 113878, 2021 <br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782521002152">https://www.sciencedirect.com/science/article/abs/pii/S0045782521002152</a> <br>
+<a href="https://doi.org/10.1016/j.cma.2021.113878">https://doi.org/10.1016/j.cma.2021.113878</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/Stoter_2021_VMSNitsche_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
 </ol>
@@ -104,14 +104,14 @@ Nitsche’s method as a variational multiscale formulation and a resulting bound
   <li>I. Akkerman, J.H.A. Meijer, <b>M.F.P. ten Eikelder</b> <br>
 Isogeometric analysis of linear free-surface potential flow, <br>
 <span style="color: #3b7c78;"><b>Ocean Engineering</b></span> 201: article 107114, 2020 <br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0029801820301803">https://www.sciencedirect.com/science/article/abs/pii/S0029801820301803</a> <br>
+<a href="https://doi.org/10.1016/j.oceaneng.2020.107114">https://doi.org/10.1016/j.oceaneng.2020.107114</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/Akkerman_2020_IGApotflow_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
   <li><b>M.F.P. ten Eikelder</b>, Y. Bazilevs, I. Akkerman<br>
 A theoretical framework for discontinuity capturing: Joining variational multiscale analysis and variation entropy
 theory,<br>
 <span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 359: article 112664, 2020 <br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782519305493">https://www.sciencedirect.com/science/article/abs/pii/S0045782521002152</a> <br>
+<a href="https://doi.org/10.1016/j.cma.2019.112664">https://doi.org/10.1016/j.cma.2019.112664</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2020_VMSDC_CMAME.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
 </ol>
