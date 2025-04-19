@@ -37,13 +37,13 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
    A Multiscale-Multiphysics Framework for Modeling Organ-scale Liver Regrowth<br>
    <span style="color: #3b7c78;"><b>Journal of the Mechanics and Physics of Solids</b></span>, 200, 106113, 2025<br>
 <a href="https://doi.org/10.1016/j.jmps.2025.106113">https://doi.org/10.1016/j.jmps.2025.106113</a><br>
-   <b><a href="http://marcoteneikelder.github.io/files/Ebrahem_JMPS_2025.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+   <b><a href="http://marcoteneikelder.github.io/files/2015_Ebrahem_JMPS.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
   </li>
 <li>V. Badrkhani, R.R. Hiemstra, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    The matrix-free macro-element hybridized discontinuous Galerkin method for compressible turbulent flows<br>
    <span style="color: #3b7c78;"><b>International Journal of Numerical Methods in Fluids</b></span> 97: 462-483, 2025<br>
      <a href="https://doi.org/10.1002/fld.5357">https://doi.org/10.1002/fld.5357</a><br>
-   <b><a href="http://marcoteneikelder.github.io/files/Badrkhani_IJNMF_2025.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+   <b><a href="http://marcoteneikelder.github.io/files/2015_Badrkhani_IJNMF.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
   </li>
 </ol>
 <!-- YEAR: 2024 -->
@@ -147,13 +147,13 @@ Toward free-surface flow simulations with correct energy evolution: an isogeomet
 Correct energy evolution of stabilized formulations: The relation between VMS, SUPG and GLS via dynamic orthogonal small-scales and isogeometric analysis. II: The incompressible Navier-Stokes equations,<br>
 <span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 340: 1135-1159, 2018 <br>
 <a href="https://doi.org/10.1016/j.cma.2018.02.030">https://doi.org/10.1016/j.cma.2018.02.030</a> <br>
-<b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2018_energyNS_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+<b><a href="http://marcoteneikelder.github.io/files/2018_ten_Eikelder_NS_CMAME.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
   <li><b>M.F.P. ten Eikelder</b>, I. Akkerman <br>
 Correct energy evolution of stabilized formulations: The relation between VMS, SUPG and GLS via dynamic orthogonal small-scales and isogeometric analysis. I: The convective-diffusive context, <br>
 <span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 331: 259-280, 2018 <br>
 <a href="https://doi.org/10.1016/j.cma.2017.11.020">https://doi.org/10.1016/j.cma.2017.11.020</a> <br>
-<b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2018_energyCD_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+<b><a href="http://marcoteneikelder.github.io/files/2018_ten_Eikelder_CD_CMAME.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
   </li>
 </ol>
 <!-- YEAR: 2017 -->
@@ -163,7 +163,7 @@ Correct energy evolution of stabilized formulations: The relation between VMS, S
 An acoustic-convective splitting-based approach for the Kapila two-phase flow model, <br>
 <span style="color: #3b7c78;"><b>Journal of Computational Physics</b></span> 331: 188-208, 2017 <br>
 <a href="https://doi.org/10.1016/j.jcp.2016.11.031">https://doi.org/10.1016/j.jcp.2016.11.031</a> <br>
-<b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2017_JCP.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+<b><a href="http://marcoteneikelder.github.io/files/2017_ten_Eikelder_JCP.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
   </li>
 </ol>
 <br>
