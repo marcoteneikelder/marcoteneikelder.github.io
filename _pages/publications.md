@@ -121,7 +121,7 @@ A theoretical framework for discontinuity capturing: Joining variational multisc
 theory,<br>
 <span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 359: article 112664, 2020 <br>
 <a href="https://doi.org/10.1016/j.cma.2019.112664">https://doi.org/10.1016/j.cma.2019.112664</a> <br>
-<b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2020_VMSDC_CMAME.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+<b><a href="http://marcoteneikelder.github.io/files/2020_ten_Eikelder_CMAME.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
 </ol>
 <!-- YEAR: 2019 -->
