@@ -59,7 +59,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
    Thermodynamically consistent diffuse-interface mixture models of incompressible multicomponent fluids<br>
    <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 990, A8, 2024<br>
    <a href="https://doi.org/10.1017/jfm.2024.502 ">https://doi.org/10.1017/jfm.2024.502 </a><br>
-   <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_mix_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+   <b><a href="http://marcoteneikelder.github.io/files/2024_ten_Eikelder_JFM.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
    </li>
    <li>J. Lotz, <b>M.F.P. ten Eikelder</b>, I. Akkerman<br>
    Space–time computations of exactly time-periodic flows past hydrofoils<br>
