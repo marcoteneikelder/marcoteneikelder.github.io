@@ -137,7 +137,7 @@ Variation entropy: a continuous local generalization of the TVD property using e
 Toward free-surface flow simulations with correct energy evolution: an isogeometric level-set approach with monolithic time-integration,<br>
 <span style="color: #3b7c78;"><b>Computers and Fluids</b></span> 181: 77-89, 2019 <br>
 <a href="https://doi.org/10.1016/j.compfluid.2019.01.015">https://doi.org/10.1016/j.compfluid.2019.01.015</a> <br>
-<b><a href="http://marcoteneikelder.github.io/files/Akkerman_2019_towardenergy_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+<b><a href="http://marcoteneikelder.github.io/files/2019_Akkerman_CAF.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
 </ol>
 <!-- YEAR: 2024 -->
