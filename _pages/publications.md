@@ -32,24 +32,27 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
    A Multiscale-Multiphysics Framework for Modeling Organ-scale Liver Regrowth<br>
    <span style="color: #3b7c78;"><b>Journal of the Mechanics and Physics of Solids</b></span>, 200, 106113, 2025<br>
 <a href="https://doi.org/10.1016/j.jmps.2025.106113">https://doi.org/10.1016/j.jmps.2025.106113</a><br>
-<a href="https://arxiv.org/abs/2410.19529">https://arxiv.org/abs/2410.19529</a></li> 
+<a href="https://arxiv.org/abs/2410.19529">https://arxiv.org/abs/2410.19529</a></li>
+<li>V. Badrkhani, R.R. Hiemstra, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
+   The matrix-free macro-element hybridized discontinuous Galerkin method for compressible turbulent flows<br>
+   <span style="color: #3b7c78;"><b>International Journal of Numerical Methods in Fluids</b></span> 97: 462-483, 2025<br>
+     <a href="https://doi.org/10.1002/fld.5357">https://doi.org/10.1002/fld.5357</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/Badrkhani_IJNMF_2025.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+  </li>
 </ol>
 <!-- YEAR: 2024 -->
 <div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2024</div>
 <ol reversed start="16">
-<li>V. Badrkhani, R.R. Hiemstra, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
-   The matrix-free macro-element hybridized discontinuous Galerkin method for compressible turbulent flows<br>
-   <i>International Journal of Numerical Methods in Fluids</i>, 2024</li>
   <li><b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    The divergence-free velocity formulation of the consistent Navier-Stokes Cahn-Hilliard model with non-matching densities, divergence-conforming discretization, and benchmarks<br>
    <span style="color: #3b7c78;"><b>Journal of Computational Physics</b></span> 513: 113148, 2024<br>
-   <a href="https://arxiv.org/abs/2311.09966" style="color: #4a4a4a !important;">https://arxiv.org/abs/2311.09966</a><br>
+   <a href="https://doi.org/10.1016/j.jcp.2024.113148">https://doi.org/10.1016/j.jcp.2024.113148</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_divNSCH_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
   </li>
   <li><b>M.F.P. ten Eikelder</b>, K.G. van der Zee, D. Schillinger<br>
    Thermodynamically consistent diffuse-interface mixture models of incompressible multicomponent fluids<br>
    <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 990, A8, 2024<br>
-   <a href="https://arxiv.org/abs/2302.09287" style="color: #4a4a4a !important;">https://arxiv.org/abs/2302.09287</a><br>
+   <a href="https://doi.org/10.1017/jfm.2024.502 ">https://doi.org/10.1017/jfm.2024.502 </a><br>
    <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_mix_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
    </li>
    <li>J. Lotz, <b>M.F.P. ten Eikelder</b>, I. Akkerman<br>
