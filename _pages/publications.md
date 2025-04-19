@@ -174,7 +174,14 @@ An acoustic-convective splitting-based approach for the Kapila two-phase flow mo
 <font size="5">  
     Conference proceedings
 </font>
-<ol reversed>
+<ol reversed>   
+    <li> <b>M.F.P. ten Eikelder</b>, M.A. Khanwale <br>
+Ostwald ripening and breakup characteristics of the advective Cahn-Hilliard equation: The role of free energy functionals, <br>
+Proceedings of the 2024 Summer Program - Center for Turbulence Research​ <br>
+Stanford University, Stanford, 2024 <br>       
+<a href="https://web.stanford.edu/group/ctr/ctrsp24/iv04_TEN.pdf">https://web.stanford.edu/group/ctr/ctrsp24/iv04_TEN.pdf</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/2024_ten_Eikelder_CTR.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+   </li>    
    <li> <b>M.F.P. ten Eikelder</b>, I. Akkerman, R. van 't Veer <br>
 Correct energy behavior in two-fluid flow, <br>
 Proceedings of the 20th Numerical Towing Tank Symposium - NuTTS'17 <br>
