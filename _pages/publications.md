@@ -114,7 +114,7 @@ Nitsche’s method as a variational multiscale formulation and a resulting bound
 Isogeometric analysis of linear free-surface potential flow, <br>
 <span style="color: #3b7c78;"><b>Ocean Engineering</b></span> 201: article 107114, 2020 <br>
 <a href="https://doi.org/10.1016/j.oceaneng.2020.107114">https://doi.org/10.1016/j.oceaneng.2020.107114</a> <br>
-<b><a href="http://marcoteneikelder.github.io/files/Akkerman_2020_IGApotflow_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+<b><a href="http://marcoteneikelder.github.io/files/2020_Akkerman_OE.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
   <li><b>M.F.P. ten Eikelder</b>, Y. Bazilevs, I. Akkerman<br>
 A theoretical framework for discontinuity capturing: Joining variational multiscale analysis and variation entropy
