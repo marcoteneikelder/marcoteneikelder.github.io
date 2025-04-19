@@ -171,12 +171,12 @@ An acoustic-convective splitting-based approach for the Kapila two-phase flow mo
     Conference proceedings
 </font>
 <ol reversed>
-   <li><br> <b>M.F.P. ten Eikelder</b>, I. Akkerman, R. van 't Veer <br>
+   <li> <b>M.F.P. ten Eikelder</b>, I. Akkerman, R. van 't Veer <br>
 Correct energy behavior in two-fluid flow, <br>
 Proceedings of the 20th Numerical Towing Tank Symposium - NuTTS'17 <br>
 Wageningen, the Netherlands (October 2017) <br>
    </li>
-   <li><br> <b>M.F.P. ten Eikelder</b>, F. Daude, B. Koren <br>
+   <li> <b>M.F.P. ten Eikelder</b>, F. Daude, B. Koren <br>
 A Lagrange-Projection-Like Numerical Scheme for Mixed Acoustic-Convective Two-Phase Flows <br>
 <span style="color: #3b7c78;"><b>Proceedings of the ASME 2016 Pressure Vessels and Piping Conference - PVP 2016</b></span> <br>
 Vancouver, Canada (July 2016), paper PVP2016-63539 <br>       
