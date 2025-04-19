@@ -11,12 +11,12 @@ author_profile: true
 <ol reversed start="22">  
 <li><i> Under review </i><br> A. Brunk, <b>M.F.P. ten Eikelder</b><br>
    A simple fully-discrete energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard mixture model with non-matching densities<br>
-   <a href="https://arxiv.org/abs/2504.00688">https://arxiv.org/abs/2504.00688</a>
+   <a href="https://arxiv.org/abs/2504.00688">https://arxiv.org/abs/2504.00688</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/Brunk_ten_Eikelder_2025.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
 </li>
 <li><i> Under review </i><br> <b>M.F.P. ten Eikelder</b>, E.H. van Brummelen, D. Schillinger <br>
    Compressible N-phase fluid mixture models<br>
-   <a href="https://arxiv.org/abs/2503.24225">https://arxiv.org/abs/2503.24225</a>
+   <a href="https://arxiv.org/abs/2503.24225">https://arxiv.org/abs/2503.24225</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_Compressible_2025.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
 </li>
    <li><i> Under review </i><br> J. Hohl, A. Ebrahem, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
@@ -30,7 +30,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
 <li><b>M.F.P. ten Eikelder</b><br>
    A unified framework for N-phase Navier-Stokes Cahn-Hilliard Allen-Cahn mixture models with non-matching densities<br>
    <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 2025 (to appear) <br>
-   <a href="https://www.arxiv.org/abs/2407.20145">https://www.arxiv.org/abs/2407.20145</a>
+   <a href="https://www.arxiv.org/abs/2407.20145">https://www.arxiv.org/abs/2407.20145</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_NSCH_JFM_2025.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
 </li>
 <li>A. Ebrahem, J. Hohl, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
