@@ -7,26 +7,30 @@ author_profile: true
 <font size="5">  
     Journal articles
 </font>
-<div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2025</div>
+<div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">Under review</div>
 <ol reversed start="22">  
-<li><i> Under review </i><br> A. Brunk, <b>M.F.P. ten Eikelder</b><br>
+<li>A. Brunk, <b>M.F.P. ten Eikelder</b><br>
    A simple fully-discrete energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard mixture model with non-matching densities<br>
    <a href="https://arxiv.org/abs/2504.00688">https://arxiv.org/abs/2504.00688</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/2025_Brunk_ten_Eikelder_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
 </li>
-<li><i> Under review </i><br> <b>M.F.P. ten Eikelder</b>, E.H. van Brummelen, D. Schillinger <br>
+<li><b>M.F.P. ten Eikelder</b>, E.H. van Brummelen, D. Schillinger <br>
    Compressible N-phase fluid mixture models<br>
    <a href="https://arxiv.org/abs/2503.24225">https://arxiv.org/abs/2503.24225</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/2025_ten_Eikelder_COMP_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
 </li>
-   <li><i> Under review </i><br> J. Hohl, A. Ebrahem, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
+   <li>J. Hohl, A. Ebrahem, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    A Multi-compartment Homogenized Perfusion Model for Deforming Hierarchical Vasculature<br>
    </li>
-  <li><i> Under review </i><br> M.L. Mika, <b>M.F.P. ten Eikelder</b>, D. Schillinger, R.R. Hiemstra <br>
+  <li>M.L. Mika, <b>M.F.P. ten Eikelder</b>, D. Schillinger, R.R. Hiemstra <br>
 Matrix-free polynomial preconditioning of saddle point systems using the hyper-power method <br>
 <a href="https://arxiv.org/abs/2311.06926">https://arxiv.org/abs/2311.06926</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/2023_Mika_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
 </li>
+</ol>
+<!-- YEAR: 2025 -->
+<div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2025</div>
+<ol reversed start="18">
 <li><b>M.F.P. ten Eikelder</b><br>
    A unified framework for N-phase Navier-Stokes Cahn-Hilliard Allen-Cahn mixture models with non-matching densities<br>
    <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 2025 (to appear) <br>
@@ -48,7 +52,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
 </ol>
 <!-- YEAR: 2024 -->
 <div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2024</div>
-<ol reversed start="16">
+<ol reversed start="15">
   <li><b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    The divergence-free velocity formulation of the consistent Navier-Stokes Cahn-Hilliard model with non-matching densities, divergence-conforming discretization, and benchmarks<br>
    <span style="color: #3b7c78;"><b>Journal of Computational Physics</b></span> 513: 113148, 2024<br>
