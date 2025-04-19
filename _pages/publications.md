@@ -65,7 +65,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
    Space–time computations of exactly time-periodic flows past hydrofoils<br>
    <span style="color: #3b7c78;"><b>Computers and Fluids</b></span> 277: 106286, 2024<br>
    <a href="https://doi.org/10.1016/j.compfluid.2024.106286">https://doi.org/10.1016/j.compfluid.2024.106286</a><br>
-   <b><a href="http://marcoteneikelder.github.io/files/Lotz_2022_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+   <b><a href="http://marcoteneikelder.github.io/files/2024_Lotz_CAF.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
    </li>
   <li>A. Ebrahem, E. Jessen, <b>M.F.P. ten Eikelder</b>, T. Gangwar, M.L. Mika, D. Schillinger<br>
 Connecting continuum poroelasticity with discrete synthetic vascular trees for modeling liver tissue<br>
