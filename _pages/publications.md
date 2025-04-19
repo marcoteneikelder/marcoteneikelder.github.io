@@ -178,8 +178,10 @@ Wageningen, the Netherlands (October 2017) <br>
    </li>
    <li><br> <b>M.F.P. ten Eikelder</b>, F. Daude, B. Koren <br>
 A Lagrange-Projection-Like Numerical Scheme for Mixed Acoustic-Convective Two-Phase Flows <br>
-Proceedings of the ASME 2016 Pressure Vessels and Piping Conference - PVP 2016 <br>
-Vancouver, Canada (July 2016), paper PVP2016-63539 <br>
+<span style="color: #3b7c78;"><b>Proceedings of the ASME 2016 Pressure Vessels and Piping Conference - PVP 2016</b></span> <br>
+Vancouver, Canada (July 2016), paper PVP2016-63539 <br>       
+<a href="https://doi.org/10.1115/PVP2016-63539">https://doi.org/10.1115/PVP2016-63539</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/2016_ten_Eikelder_ASME_PVP.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
    </li>
 </ol>
 <br>
