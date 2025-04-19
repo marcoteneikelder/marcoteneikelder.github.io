@@ -77,7 +77,7 @@ Connecting continuum poroelasticity with discrete synthetic vascular trees for m
 Constraints for eliminating the Gibbs phenomenon in finite element approximation spaces, <br>
 <span style="color: #3b7c78;"><b>Mathematical Models and Methods in Applied Sciences</b></span>, 2024 <br>
 <a href="https://doi.org/10.1142/S0218202524500040">https://doi.org/10.1142/S0218202524500040</a> <br>
-<b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_constraints_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+<b><a href="http://marcoteneikelder.github.io/files/2024_ten_Eikelder_M3AS.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>      
 </ol>
 <!-- YEAR: 2023 -->
@@ -87,7 +87,7 @@ Constraints for eliminating the Gibbs phenomenon in finite element approximation
 A unified framework for Navier-Stokes Cahn-Hilliard models with non-matching densities, <br>
 <span style="color: #3b7c78;"><b>Mathematical Models and Methods in Applied Sciences</b></span> 33, 175-221, 2023 <br>
 <a href="https://doi.org/10.1142/S0218202523500069">https://doi.org/10.1142/S0218202523500069</a> <br>
-<b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2023_NSCH_M3AS.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+<b><a href="http://marcoteneikelder.github.io/files/2023_ten_Eikelder_M3AS.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
 </ol>
 <!-- YEAR: 2021 -->
@@ -98,13 +98,13 @@ A novel diffuse-interface model and a fully-discrete maximum-principle-preservin
 surface tension and non-matching densities,<br>
 <span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 379: 113751, 2021<br>
 <a href="https://doi.org/10.1016/j.cma.2021.113751">https://doi.org/10.1016/j.cma.2021.113751</a> <br>
-<b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2021_energyLS_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+<b><a href="http://marcoteneikelder.github.io/files/2021_ten_Eikelder_CMAME.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
   <li>S.K.F. Stoter, <b>M.F.P. ten Eikelder</b>, F. de Prenter, I. Akkerman, E.H. van Brummelen, C.V. Verhoosel, D. Schillinger <br>
 Nitsche’s method as a variational multiscale formulation and a resulting boundary layer fine-scale model, <br>
 <span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 382: 113878, 2021 <br>
 <a href="https://doi.org/10.1016/j.cma.2021.113878">https://doi.org/10.1016/j.cma.2021.113878</a> <br>
-<b><a href="http://marcoteneikelder.github.io/files/Stoter_2021_VMSNitsche_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+<b><a href="http://marcoteneikelder.github.io/files/2021_Stoter_CMAME.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
 </ol>
 <!-- YEAR: 2020 -->
