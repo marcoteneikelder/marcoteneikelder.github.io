@@ -121,13 +121,13 @@ theory,<br>
   <li><b>M.F.P. ten Eikelder</b>, I. Akkerman <br>
 Variation entropy: a continuous local generalization of the TVD property using entropy principles, <br>
 <span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 355: 261-283, 2019 <br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782519303664">https://www.sciencedirect.com/science/article/abs/pii/S0045782519303664</a> <br>
+<a href="https://doi.org/10.1016/j.cma.2019.06.023">https://doi.org/10.1016/j.cma.2019.06.023</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2019_VE_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
   <li>I. Akkerman, <b>M.F.P. ten Eikelder</b><br>
 Toward free-surface flow simulations with correct energy evolution: an isogeometric level-set approach with monolithic time-integration,<br>
 <span style="color: #3b7c78;"><b>Computers and Fluids</b></span> 181: 77-89, 2019 <br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0045793019300118">https://www.sciencedirect.com/science/article/abs/pii/S0045793019300118</a> <br>
+<a href="https://doi.org/10.1016/j.compfluid.2019.01.015">https://doi.org/10.1016/j.compfluid.2019.01.015</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/Akkerman_2019_towardenergy_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
 </ol>
@@ -137,13 +137,13 @@ Toward free-surface flow simulations with correct energy evolution: an isogeomet
   <li><b>M.F.P. ten Eikelder</b>, I. Akkerman<br>
 Correct energy evolution of stabilized formulations: The relation between VMS, SUPG and GLS via dynamic orthogonal small-scales and isogeometric analysis. II: The incompressible Navier-Stokes equations,<br>
 <span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 340: 1135-1159, 2018 <br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782518301105">https://www.sciencedirect.com/science/article/abs/pii/S0045782518301105</a> <br>
+<a href="https://doi.org/10.1016/j.cma.2018.02.030">https://doi.org/10.1016/j.cma.2018.02.030</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2018_energyNS_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
   <li><b>M.F.P. ten Eikelder</b>, I. Akkerman <br>
 Correct energy evolution of stabilized formulations: The relation between VMS, SUPG and GLS via dynamic orthogonal small-scales and isogeometric analysis. I: The convective-diffusive context, <br>
 <span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 331: 259-280, 2018 <br>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S004578251730720X">https://www.sciencedirect.com/science/article/abs/pii/S004578251730720X</a> <br>
+<a href="https://doi.org/10.1016/j.cma.2017.11.020">https://doi.org/10.1016/j.cma.2017.11.020</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2018_energyCD_arxiv.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
   </li>
 </ol>
