@@ -19,9 +19,6 @@ author_profile: true
    <a href="https://arxiv.org/abs/2503.24225">https://arxiv.org/abs/2503.24225</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/2025_ten_Eikelder_COMP_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
 </li>
-   <li>J. Hohl, A. Ebrahem, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
-   A Multi-compartment Homogenized Perfusion Model for Deforming Hierarchical Vasculature<br>
-   </li>
   <li>M.L. Mika, <b>M.F.P. ten Eikelder</b>, D. Schillinger, R.R. Hiemstra <br>
 Matrix-free polynomial preconditioning of saddle point systems using the hyper-power method <br>
 <a href="https://arxiv.org/abs/2311.06926">https://arxiv.org/abs/2311.06926</a> <br>
@@ -30,10 +27,14 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
 </ol>
 <!-- YEAR: 2025 -->
 <div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2025</div>
-<ol reversed start="18">
+<ol reversed start="19">
+<li>J. Hohl, A. Ebrahem, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
+   A Multi-compartment Homogenized Perfusion Model for Deforming Hierarchical Vasculature<br>
+   <span style="color: #3b7c78;"><b>Biomechanics and Modeling in Mechanobiology</b></span> 2025 (to appear) 
+</li>
 <li><b>M.F.P. ten Eikelder</b><br>
    A unified framework for N-phase Navier-Stokes Cahn-Hilliard Allen-Cahn mixture models with non-matching densities<br>
-   <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 2025 (to appear) <br>
+   <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 1013, A26, 2025<br>
    <a href="https://doi.org/10.1017/jfm.2025.10186">https://doi.org/10.1017/jfm.2025.10186</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/2025_ten_Eikelder_JFM.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
 </li>
