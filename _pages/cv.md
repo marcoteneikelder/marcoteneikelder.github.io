@@ -11,7 +11,7 @@ redirect_from:
 
 ## Professional Experience
 * <b> Jan 2022–present </b>:  <span style="color: #3b7c78;"><b>Postdoctoral Researcher and Lecturer</b></span>
-  * Technical University of Darmstadt
+  * <span style="color: #7b2c35 !important;"><b>Technical University of Darmstadt</b></span>
   * Computational Mechanics Group, Institute for Mechanics
   * Department of Civil and Environmental Engineering
 
