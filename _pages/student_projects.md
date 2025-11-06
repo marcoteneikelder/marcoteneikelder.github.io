@@ -6,12 +6,11 @@ author_profile: true
 ---
 
 <span style="color: #3b7c78;"><b>Open student (HIWI) projects</b></span><br>
-<li> <a href="https://www.uni-regensburg.de/mathematics/mathematics-abels/further-activities/gamm-activity-group-interfacial-and-multiphase-flow/index.html">Towards Greener Inkjet Printing:
-Cutting-Edge Evaporation Modeling for
-Energy Reduction</a><br>
+<li> Towards Greener Inkjet Printing: Cutting-Edge Evaporation Modeling for Energy Reduction<br>
+  <b><a href="http://marcoteneikelder.github.io/files/Project_Towards_Greener_Inkjet_Printing.pdf" style="color: #7b2c35 !important;">Project description</a></b>
 </li>
 
-Please do not hesitate to contact me if you are interested to work with me (and if you have project ideas).
+Please do not hesitate to contact me if you are interested to work with me (or if you have project ideas).
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
