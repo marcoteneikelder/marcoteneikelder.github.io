@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Professional Experience
-======
 * <b> Jan 2022–present </b>:  <span style="color: #3b7c78;"><b>Postdoctoral Researcher and Lecturer</b></span>
   * Technical University of Darmstadt
   * Computational Mechanics Group, Institute for Mechanics
@@ -41,8 +40,8 @@ redirect_from:
   * Department of Mathematics and Computer Science
 
 
-Education
-======
+## Education
+
 * <b> Jun 2016–May 2020 </b>:  <span style="color: #3b7c78;"><b>Ph.D. in Computational Fluid Mechanics</b></span>
   * Delft University of Technology
   * Department of Mechanical Engineering
