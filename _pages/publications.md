@@ -8,7 +8,22 @@ author_profile: true
     Journal articles
 </font>
 <div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">Under review</div>
-<ol reversed start="22">  
+<ol reversed start="25">
+<li>V. Badrkhani, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
+   An entropy-stable and kinetic energy-preserving macro-element HDG method for compressible flows<br>
+   <a href="https://arxiv.org/abs/2509.22411">https://arxiv.org/abs/2509.22411</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2025_Badrkhani_entropy_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+  </li>
+<li>X. Xue, <b>M.F.P. ten Eikelder</b>, X. Cheng, M. Gao, Y. Yang, Y. He, S. Wang, S. Cheng, Y. Hu, and P.V. Coveney<br>
+   Fast-Forward Prediction of Lattice Boltzmann Equations via Physics-Informed Neural Operators<br>
+   <a href="https://arxiv.org/abs/2509.22411">https://arxiv.org/abs/2509.22411</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2025_Xue_LBE_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+</li>
+<li>X. Xue, <b>M.F.P. ten Eikelder</b>, T. Yang, K. He, S. Wang, P.V. Coveney<br>
+   Equivariant Neural Operators for the Cahn–Hilliard Phase-Field Model<br>
+   <a href="https://arxiv.org/abs/2509.01293">https://arxiv.org/abs/2509.01293</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2025_Xue_CH_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+</li>
 <li>A. Brunk, <b>M.F.P. ten Eikelder</b><br>
    A simple fully-discrete energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard mixture model with non-matching densities<br>
    <a href="https://arxiv.org/abs/2504.00688">https://arxiv.org/abs/2504.00688</a><br>
