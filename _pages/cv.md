@@ -31,7 +31,6 @@ Professional Experience
 
 * Mar 2015–Sep 2015: Industrial Internship (M.Sc. thesis project)
   * Électricité de France (EDF), Paris
-  * Advisors: F. Daude (EDF), Prof. B. Koren (TU Eindhoven)
 
 * Aug 2014–Oct 2014: Research Internship
   * Indian Institute of Technology Kanpur
@@ -56,7 +55,7 @@ Education
 
 * 2010–2013: B.Sc. in Applied Mathematics, Eindhoven University of Technology
   * Department of Mathematics and Computer Science
-  * Distinction: cum laude
+  * Distinction: cum laude (highest distinction)
 
 * Sep 2012–Feb 2013: Minor in Operational Research, Eindhoven University of Technology
   * Department of Industrial Engineering and Innovation Sciences
