@@ -53,7 +53,9 @@ Education
   * Department of Mathematics and Computer Science
   * Specialization: Computational Science and Engineering
   * Distinction: cum laude (highest distinction) + Honors Program
-  * Industrial/research stays: Électricité de France (France); Indian Institute of Technology Kanpur (India)
+  * Industrial/research stays:
+    * Électricité de France (France)
+    * Indian Institute of Technology Kanpur (India)
 
 * <b> 2010–2013 </b>:  <span style="color: #3b7c78;"><b>B.Sc. in Applied Mathematics</b></span>
   * Eindhoven University of Technology
