@@ -41,7 +41,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
 </li>
 </ol>
 <!-- YEAR: 2025 -->
-<div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2025</div>
+<h2>2025</h2>
 <ol reversed start="19">
 <li>J. Hohl, A. Ebrahem, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    A Multi-compartment Homogenized Perfusion Model for Deforming Hierarchical Vasculature<br>
@@ -67,7 +67,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
   </li>
 </ol>
 <!-- YEAR: 2024 -->
-<div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2024</div>
+<h2>2024</h2>
 <ol reversed start="15">
   <li><b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    The divergence-free velocity formulation of the consistent Navier-Stokes Cahn-Hilliard model with non-matching densities, divergence-conforming discretization, and benchmarks<br>
@@ -101,7 +101,7 @@ Constraints for eliminating the Gibbs phenomenon in finite element approximation
 </li>      
 </ol>
 <!-- YEAR: 2023 -->
-<div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2023</div>
+<h2>2023</h2>
 <ol reversed start="10">
   <li><b>M.F.P. ten Eikelder</b>, K.G. van der Zee, I. Akkerman, D. Schillinger<br>
 A unified framework for Navier-Stokes Cahn-Hilliard models with non-matching densities, <br>
@@ -111,7 +111,7 @@ A unified framework for Navier-Stokes Cahn-Hilliard models with non-matching den
 </li>
 </ol>
 <!-- YEAR: 2021 -->
-<div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2021</div>
+<h2>2021</h2>
 <ol reversed start="9">
   <li><b>M.F.P. ten Eikelder</b>, I. Akkerman <br>
 A novel diffuse-interface model and a fully-discrete maximum-principle-preserving energy-stable method for two-phase flow with
@@ -128,7 +128,7 @@ Nitsche’s method as a variational multiscale formulation and a resulting bound
 </li>
 </ol>
 <!-- YEAR: 2020 -->
-<div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2020</div>
+<h2>2020</h2>
 <ol reversed start="7">
   <li>I. Akkerman, J.H.A. Meijer, <b>M.F.P. ten Eikelder</b> <br>
 Isogeometric analysis of linear free-surface potential flow, <br>
@@ -145,7 +145,7 @@ theory,<br>
 </li>
 </ol>
 <!-- YEAR: 2019 -->
-<div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2019</div>
+<h2>2019</h2>
 <ol reversed start="5">
   <li><b>M.F.P. ten Eikelder</b>, I. Akkerman <br>
 Variation entropy: a continuous local generalization of the TVD property using entropy principles, <br>
@@ -160,8 +160,8 @@ Toward free-surface flow simulations with correct energy evolution: an isogeomet
 <b><a href="http://marcoteneikelder.github.io/files/2019_Akkerman_CAF.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
 </ol>
-<!-- YEAR: 2024 -->
-<div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2018</div>
+<!-- YEAR: 2018 -->
+<h2>2018</h2>
 <ol reversed start="3">
   <li><b>M.F.P. ten Eikelder</b>, I. Akkerman<br>
 Correct energy evolution of stabilized formulations: The relation between VMS, SUPG and GLS via dynamic orthogonal small-scales and isogeometric analysis. II: The incompressible Navier-Stokes equations,<br>
@@ -177,7 +177,7 @@ Correct energy evolution of stabilized formulations: The relation between VMS, S
   </li>
 </ol>
 <!-- YEAR: 2017 -->
-<div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">2017</div>
+<h2>2017</h2>
 <ol reversed start="1">
   <li><b>M.F.P. ten Eikelder</b>, F. Daude, B. Koren, A.S. Tijsseling <br>
 An acoustic-convective splitting-based approach for the Kapila two-phase flow model, <br>
