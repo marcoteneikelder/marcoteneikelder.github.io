@@ -7,7 +7,7 @@ author_profile: true
 <font size="5">  
     Journal articles
 </font>
-<div style="font-size: 1.4em; font-weight: bold; margin-top: 1.6em;">Under review</div>
+<h3>Under review</h3>
 <ol reversed start="25">
 <li>V. Badrkhani, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    An entropy-stable and kinetic energy-preserving macro-element HDG method for compressible flows<br>
