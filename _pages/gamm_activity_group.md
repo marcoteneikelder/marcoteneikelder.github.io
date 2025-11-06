@@ -14,11 +14,10 @@ Chair: Dr. ir. Marco ten Eikelder (Darmstadt)<br>
 Vice Chair: Prof. Dr. Barbara Wagner (Berlin)<br>
 Vice Chair: Prof. Dr. Helmut Abels (Regensburg)<br>
 
-<li>GAMM activity group website
-   <a href="https://www.uni-regensburg.de/mathematics/mathematics-abels/further-activities/gamm-activity-group-interfacial-and-multiphase-flow/index.html">https://www.uni-regensburg.de/mathematics/mathematics-abels/further-activities/gamm-activity-group-interfacial-and-multiphase-flow/index.html</a><br>
+<li> <a href="https://www.uni-regensburg.de/mathematics/mathematics-abels/further-activities/gamm-activity-group-interfacial-and-multiphase-flow/index.html">GAMM activity group website</a><br>
 </li>
-<li>1st GAMM Activity Group Workshop
-   <a href="https://www.mechanik.tu-darmstadt.de/forschung_mech/gamm_workshop/gamm_workshop.en.jsp">https://www.mechanik.tu-darmstadt.de/forschung_mech/gamm_workshop/gamm_workshop.en.jsp</a><br>
+<li>
+   <a href="https://www.mechanik.tu-darmstadt.de/forschung_mech/gamm_workshop/gamm_workshop.en.jsp">1st GAMM Activity Group Workshop</a><br>
 </li>  
 
 {% if author.googlescholar %}
