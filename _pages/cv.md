@@ -11,12 +11,12 @@ redirect_from:
 
 ## Professional Experience
 * <b> Jan 2022–present </b>:  <span style="color: #3b7c78;"><b>Postdoctoral Researcher and Lecturer</b></span>
-  * <span style="color: #7b2c35 !important;"><b>Technical University of Darmstadt</b></span>
-  * Computational Mechanics Group, Institute for Mechanics, Department of Civil and Environmental Engineering
+  * <span style="color: #7b2c35 !important;"><b>Technical University of Darmstadt</b></span>, Department of Civil and Environmental Engineering
+  * Computational Mechanics Group, Institute for Mechanics
 
 * <b> Feb 2021–Dec 2021 </b>:  <span style="color: #3b7c78;"><b>Postdoctoral Researcher and Lecturer</b></span>
-  * <span style="color: #7b2c35 !important;"><b>Leibniz University Hannover</b></span>
-  * Institute of Mechanics and Computational Mechanics, Faculty of Civil Engineering and Geodetic Science
+  * <span style="color: #7b2c35 !important;"><b>Leibniz University Hannover</b></span>, Faculty of Civil Engineering and Geodetic Science
+  * Institute of Mechanics and Computational Mechanics
 
 * <b> Aug 2020–Jan 2021 </b>:  <span style="color: #3b7c78;"><b>Postdoctoral Researcher and Lecturer</b></span>
   * <span style="color: #7b2c35 !important;"><b>Delft University of Technology</b></span>, Department of Mechanical Engineering
