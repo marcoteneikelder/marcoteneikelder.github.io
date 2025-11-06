@@ -43,19 +43,23 @@ Professional Experience
 
 Education
 ======
-* Jun 2016–May 2020: Ph.D. in Computational Fluid Mechanics, Delft University of Technology
+* Jun 2016–May 2020: Ph.D. in Computational Fluid Mechanics
+  * Delft University of Technology
   * Department of Mechanical Engineering
   * Distinction: cum laude (top 2%)
 
-* 2013–2015: M.Sc. in Industrial and Applied Mathematics, Eindhoven University of Technology
+* 2013–2015: M.Sc. in Industrial and Applied Mathematics
+  * Eindhoven University of Technology
   * Department of Mathematics and Computer Science
   * Specialization: Computational Science and Engineering
   * Distinction: cum laude (highest distinction) + Honors Program
   * Industrial/research stays: Électricité de France (France); Indian Institute of Technology Kanpur (India)
 
-* 2010–2013: B.Sc. in Applied Mathematics, Eindhoven University of Technology
+* 2010–2013: B.Sc. in Applied Mathematics
+  * Eindhoven University of Technology
   * Department of Mathematics and Computer Science
   * Distinction: cum laude (highest distinction)
 
-* Sep 2012–Feb 2013: Minor in Operational Research, Eindhoven University of Technology
+* <b> Sep 2012–Feb 2013 </b>: Minor in Operational Research
+  * Eindhoven University of Technology
   * Department of Industrial Engineering and Innovation Sciences
