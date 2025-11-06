@@ -7,35 +7,220 @@ redirect_from:
   - /resume
 ---
 
+<font size="5">  
+    Journal articles
+</font>
+<h2>Under review</h2>
+<ol reversed start="25">
+<li>V. Badrkhani, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
+   An entropy-stable and kinetic energy-preserving macro-element HDG method for compressible flows<br>
+   <a href="https://arxiv.org/abs/2509.22411">https://arxiv.org/abs/2509.22411</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2025_Badrkhani_entropy_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+  </li>
+<li>X. Xue, <b>M.F.P. ten Eikelder</b>, X. Cheng, M. Gao, Y. Yang, Y. He, S. Wang, S. Cheng, Y. Hu, and P.V. Coveney<br>
+   Fast-Forward Prediction of Lattice Boltzmann Equations via Physics-Informed Neural Operators<br>
+   <a href="https://arxiv.org/abs/2509.22411">https://arxiv.org/abs/2509.22411</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2025_Xue_LBE_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+</li>
+<li>X. Xue, <b>M.F.P. ten Eikelder</b>, T. Yang, K. He, S. Wang, P.V. Coveney<br>
+   Equivariant Neural Operators for the Cahn–Hilliard Phase-Field Model<br>
+   <a href="https://arxiv.org/abs/2509.01293">https://arxiv.org/abs/2509.01293</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2025_Xue_CH_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+</li>
+<li>A. Brunk, <b>M.F.P. ten Eikelder</b><br>
+   A simple fully-discrete energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard mixture model with non-matching densities<br>
+   <a href="https://arxiv.org/abs/2504.00688">https://arxiv.org/abs/2504.00688</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2025_Brunk_ten_Eikelder_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+</li>
+<li><b>M.F.P. ten Eikelder</b>, E.H. van Brummelen, D. Schillinger <br>
+   Compressible N-phase fluid mixture models<br>
+   <a href="https://arxiv.org/abs/2503.24225">https://arxiv.org/abs/2503.24225</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2025_ten_Eikelder_COMP_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+</li>
+  <li>M.L. Mika, <b>M.F.P. ten Eikelder</b>, D. Schillinger, R.R. Hiemstra <br>
+Matrix-free polynomial preconditioning of saddle point systems using the hyper-power method <br>
+<a href="https://arxiv.org/abs/2311.06926">https://arxiv.org/abs/2311.06926</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/2023_Mika_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+</li>
+</ol>
+<!-- YEAR: 2025 -->
+<h2>2025</h2>
+<ol reversed start="19">
+<li>J. Hohl, A. Ebrahem, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
+   A Multi-compartment Homogenized Perfusion Model for Deforming Hierarchical Vasculature<br>
+   <span style="color: #3b7c78;"><b>Biomechanics and Modeling in Mechanobiology</b></span> 2025 (to appear) 
+</li>
+<li><b>M.F.P. ten Eikelder</b><br>
+   A unified framework for N-phase Navier-Stokes Cahn-Hilliard Allen-Cahn mixture models with non-matching densities<br>
+   <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 1013, A26, 2025<br>
+   <a href="https://doi.org/10.1017/jfm.2025.10186">https://doi.org/10.1017/jfm.2025.10186</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2025_ten_Eikelder_JFM.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+</li>
+<li>A. Ebrahem, J. Hohl, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
+   A Multiscale-Multiphysics Framework for Modeling Organ-scale Liver Regrowth<br>
+   <span style="color: #3b7c78;"><b>Journal of the Mechanics and Physics of Solids</b></span>, 200, 106113, 2025<br>
+<a href="https://doi.org/10.1016/j.jmps.2025.106113">https://doi.org/10.1016/j.jmps.2025.106113</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2025_Ebrahem_JMPS.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+  </li>
+<li>V. Badrkhani, R.R. Hiemstra, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
+   The matrix-free macro-element hybridized discontinuous Galerkin method for compressible turbulent flows<br>
+   <span style="color: #3b7c78;"><b>International Journal of Numerical Methods in Fluids</b></span> 97: 462-483, 2025<br>
+     <a href="https://doi.org/10.1002/fld.5357">https://doi.org/10.1002/fld.5357</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2025_Badrkhani_IJNMF.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+  </li>
+</ol>
+<!-- YEAR: 2024 -->
+<h2>2024</h2>
+<ol reversed start="15">
+  <li><b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
+   The divergence-free velocity formulation of the consistent Navier-Stokes Cahn-Hilliard model with non-matching densities, divergence-conforming discretization, and benchmarks<br>
+   <span style="color: #3b7c78;"><b>Journal of Computational Physics</b></span> 513: 113148, 2024<br>
+   <a href="https://doi.org/10.1016/j.jcp.2024.113148">https://doi.org/10.1016/j.jcp.2024.113148</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2024_ten_Eikelder_JCP.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+  </li>
+  <li><b>M.F.P. ten Eikelder</b>, K.G. van der Zee, D. Schillinger<br>
+   Thermodynamically consistent diffuse-interface mixture models of incompressible multicomponent fluids<br>
+   <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 990, A8, 2024<br>
+   <a href="https://doi.org/10.1017/jfm.2024.502 ">https://doi.org/10.1017/jfm.2024.502 </a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2024_ten_Eikelder_JFM.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+   </li>
+   <li>J. Lotz, <b>M.F.P. ten Eikelder</b>, I. Akkerman<br>
+   Space–time computations of exactly time-periodic flows past hydrofoils<br>
+   <span style="color: #3b7c78;"><b>Computers and Fluids</b></span> 277: 106286, 2024<br>
+   <a href="https://doi.org/10.1016/j.compfluid.2024.106286">https://doi.org/10.1016/j.compfluid.2024.106286</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2024_Lotz_CAF.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+   </li>
+  <li>A. Ebrahem, E. Jessen, <b>M.F.P. ten Eikelder</b>, T. Gangwar, M.L. Mika, D. Schillinger<br>
+Connecting continuum poroelasticity with discrete synthetic vascular trees for modeling liver tissue<br>
+   <span style="color: #3b7c78;"><b>Proceedings of the Royal Society A</b></span> 480: 20230421, 2024<br>
+   <a href="https://doi.org/10.1098/rspa.2023.0421">https://doi.org/10.1098/rspa.2023.0421</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2024_Ebrahem_PRSA.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+  </li>
+  <li><b>M.F.P. ten Eikelder</b>, S.K.F. Stoter, Y. Bazilevs, D. Schillinger <br>
+Constraints for eliminating the Gibbs phenomenon in finite element approximation spaces, <br>
+<span style="color: #3b7c78;"><b>Mathematical Models and Methods in Applied Sciences</b></span>, 2024 <br>
+<a href="https://doi.org/10.1142/S0218202524500040">https://doi.org/10.1142/S0218202524500040</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/2024_ten_Eikelder_M3AS.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+</li>      
+</ol>
+<!-- YEAR: 2023 -->
+<h2>2023</h2>
+<ol reversed start="10">
+  <li><b>M.F.P. ten Eikelder</b>, K.G. van der Zee, I. Akkerman, D. Schillinger<br>
+A unified framework for Navier-Stokes Cahn-Hilliard models with non-matching densities, <br>
+<span style="color: #3b7c78;"><b>Mathematical Models and Methods in Applied Sciences</b></span> 33, 175-221, 2023 <br>
+<a href="https://doi.org/10.1142/S0218202523500069">https://doi.org/10.1142/S0218202523500069</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/2023_ten_Eikelder_M3AS.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+</li>
+</ol>
+<!-- YEAR: 2021 -->
+<h2>2021</h2>
+<ol reversed start="9">
+  <li><b>M.F.P. ten Eikelder</b>, I. Akkerman <br>
+A novel diffuse-interface model and a fully-discrete maximum-principle-preserving energy-stable method for two-phase flow with
+surface tension and non-matching densities,<br>
+<span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 379: 113751, 2021<br>
+<a href="https://doi.org/10.1016/j.cma.2021.113751">https://doi.org/10.1016/j.cma.2021.113751</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/2021_ten_Eikelder_CMAME.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+</li>
+  <li>S.K.F. Stoter, <b>M.F.P. ten Eikelder</b>, F. de Prenter, I. Akkerman, E.H. van Brummelen, C.V. Verhoosel, D. Schillinger <br>
+Nitsche’s method as a variational multiscale formulation and a resulting boundary layer fine-scale model, <br>
+<span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 382: 113878, 2021 <br>
+<a href="https://doi.org/10.1016/j.cma.2021.113878">https://doi.org/10.1016/j.cma.2021.113878</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/2021_Stoter_CMAME.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+</li>
+</ol>
+<!-- YEAR: 2020 -->
+<h2>2020</h2>
+<ol reversed start="7">
+  <li>I. Akkerman, J.H.A. Meijer, <b>M.F.P. ten Eikelder</b> <br>
+Isogeometric analysis of linear free-surface potential flow, <br>
+<span style="color: #3b7c78;"><b>Ocean Engineering</b></span> 201: article 107114, 2020 <br>
+<a href="https://doi.org/10.1016/j.oceaneng.2020.107114">https://doi.org/10.1016/j.oceaneng.2020.107114</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/2020_Akkerman_OE.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+</li>
+  <li><b>M.F.P. ten Eikelder</b>, Y. Bazilevs, I. Akkerman<br>
+A theoretical framework for discontinuity capturing: Joining variational multiscale analysis and variation entropy
+theory,<br>
+<span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 359: article 112664, 2020 <br>
+<a href="https://doi.org/10.1016/j.cma.2019.112664">https://doi.org/10.1016/j.cma.2019.112664</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/2020_ten_Eikelder_CMAME.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+</li>
+</ol>
+<!-- YEAR: 2019 -->
+<h2>2019</h2>
+<ol reversed start="5">
+  <li><b>M.F.P. ten Eikelder</b>, I. Akkerman <br>
+Variation entropy: a continuous local generalization of the TVD property using entropy principles, <br>
+<span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 355: 261-283, 2019 <br>
+<a href="https://doi.org/10.1016/j.cma.2019.06.023">https://doi.org/10.1016/j.cma.2019.06.023</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/2019_ten_Eikelder_CMAME.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+</li>
+  <li>I. Akkerman, <b>M.F.P. ten Eikelder</b><br>
+Toward free-surface flow simulations with correct energy evolution: an isogeometric level-set approach with monolithic time-integration,<br>
+<span style="color: #3b7c78;"><b>Computers and Fluids</b></span> 181: 77-89, 2019 <br>
+<a href="https://doi.org/10.1016/j.compfluid.2019.01.015">https://doi.org/10.1016/j.compfluid.2019.01.015</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/2019_Akkerman_CAF.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+</li>
+</ol>
+<!-- YEAR: 2018 -->
+<h2>2018</h2>
+<ol reversed start="3">
+  <li><b>M.F.P. ten Eikelder</b>, I. Akkerman<br>
+Correct energy evolution of stabilized formulations: The relation between VMS, SUPG and GLS via dynamic orthogonal small-scales and isogeometric analysis. II: The incompressible Navier-Stokes equations,<br>
+<span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 340: 1135-1159, 2018 <br>
+<a href="https://doi.org/10.1016/j.cma.2018.02.030">https://doi.org/10.1016/j.cma.2018.02.030</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/2018_ten_Eikelder_NS_CMAME.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+</li>
+  <li><b>M.F.P. ten Eikelder</b>, I. Akkerman <br>
+Correct energy evolution of stabilized formulations: The relation between VMS, SUPG and GLS via dynamic orthogonal small-scales and isogeometric analysis. I: The convective-diffusive context, <br>
+<span style="color: #3b7c78;"><b>Computer Methods Applied Mechanics and Engineering</b></span> 331: 259-280, 2018 <br>
+<a href="https://doi.org/10.1016/j.cma.2017.11.020">https://doi.org/10.1016/j.cma.2017.11.020</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/2018_ten_Eikelder_CD_CMAME.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+  </li>
+</ol>
+<!-- YEAR: 2017 -->
+<h2>2017</h2>
+<ol reversed start="1">
+  <li><b>M.F.P. ten Eikelder</b>, F. Daude, B. Koren, A.S. Tijsseling <br>
+An acoustic-convective splitting-based approach for the Kapila two-phase flow model, <br>
+<span style="color: #3b7c78;"><b>Journal of Computational Physics</b></span> 331: 188-208, 2017 <br>
+<a href="https://doi.org/10.1016/j.jcp.2016.11.031">https://doi.org/10.1016/j.jcp.2016.11.031</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/2017_ten_Eikelder_JCP.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+  </li>
+</ol>
+<br>
+<font size="5">  
+    Conference proceedings
+</font>
+<ol reversed>   
+    <li> <b>M.F.P. ten Eikelder</b>, M.A. Khanwale <br>
+Ostwald ripening and breakup characteristics of the advective Cahn-Hilliard equation: The role of free energy functionals, <br>
+Proceedings of the 2024 Summer Program - Center for Turbulence Research​ <br>
+Stanford University, Stanford, 2024 <br>       
+<a href="https://web.stanford.edu/group/ctr/ctrsp24/iv04_TEN.pdf">https://web.stanford.edu/group/ctr/ctrsp24/iv04_TEN.pdf</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/2024_ten_Eikelder_CTR.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+   </li>    
+   <li> <b>M.F.P. ten Eikelder</b>, I. Akkerman, R. van 't Veer <br>
+Correct energy behavior in two-fluid flow, <br>
+Proceedings of the 20th Numerical Towing Tank Symposium - NuTTS'17 <br>
+Wageningen, the Netherlands (October 2017) <br>
+   </li>
+   <li> <b>M.F.P. ten Eikelder</b>, F. Daude, B. Koren <br>
+A Lagrange-Projection-Like Numerical Scheme for Mixed Acoustic-Convective Two-Phase Flows <br>
+<span style="color: #3b7c78;"><b>Proceedings of the ASME 2016 Pressure Vessels and Piping Conference - PVP 2016</b></span> <br>
+Vancouver, Canada (July 2016), paper PVP2016-63539 <br>       
+<a href="https://doi.org/10.1115/PVP2016-63539">https://doi.org/10.1115/PVP2016-63539</a> <br>
+<b><a href="http://marcoteneikelder.github.io/files/2016_ten_Eikelder_ASME_PVP.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+   </li>
+</ol>
+<br>
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
 {% include base_path %}
 
-## Professional Experience
-* <b> Jan 2022–present </b>:  <span style="color: #3b7c78;"><b>Postdoctoral Researcher and Lecturer</b></span>
-  * Technical University of Darmstadt
-  * Computational Mechanics Group, Institute for Mechanics
-  * Department of Civil and Environmental Engineering
-
-* <b> Feb 2021–Dec 2021 </b>:  <span style="color: #3b7c78;"><b>Postdoctoral Researcher and Lecturer</b></span>
-  * Leibniz University Hannover
-  * Institute of Mechanics and Computational Mechanics
-  * Faculty of Civil Engineering and Geodetic Science
-
-* <b> Aug 2020–Jan 2021 </b>:  <span style="color: #3b7c78;"><b>Postdoctoral Researcher and Lecturer</b></span>
-  * Delft University of Technology
-  * Department of Mechanical Engineering
-
-* <b> Oct 2015–Apr 2016 </b>:  <span style="color: #3b7c78;"><b>Research Assistant</b></span>
-  * Eindhoven University of Technology
-  * Department of Applied Physics and Science Education
-
-* <b> Mar 2015–Sep 2015 </b>:  <span style="color: #3b7c78;"><b>Industrial Internship (M.Sc. thesis project)</b></span>
-  * Électricité de France (EDF), Paris
-
-* <b> Aug 2014–Oct 2014 </b>:  <span style="color: #3b7c78;"><b>Research Internship</b></span>
-  * Indian Institute of Technology Kanpur
-  * Department of Mathematics and Statistics
-
-* <b> Nov 2012–Apr 2014 </b>:  <span style="color: #3b7c78;"><b>Tutor (various mathematics courses)</b></span>
-  * Eindhoven University of Technology
-  * Department of Mathematics and Computer Science
-
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
