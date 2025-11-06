@@ -14,7 +14,7 @@ The aim of this activity group is to bring together researchers working in the b
 <span style="color: #7b2c35 !important;"><b>Vice Chair: </b></span>Prof. Dr. Barbara Wagner (Berlin)<br>
 <span style="color: #7b2c35 !important;"><b>ViceChair: </b></span>Prof. Dr. Helmut Abels (Regensburg)<br>
 
-<li> <a href="https://www.uni-regensburg.de/mathematics/mathematics-abels/further-activities/gamm-activity-group-interfacial-and-multiphase-flow/index.html">GAMM activity group website</a><br>
+<li> <a href="https://www.uni-regensburg.de/mathematics/mathematics-abels/further-activities/gamm-activity-group-interfacial-and-multiphase-flow/index.html">GAMM Activity Group Website</a><br>
 </li>
 <li>
    <a href="https://www.mechanik.tu-darmstadt.de/forschung_mech/gamm_workshop/gamm_workshop.en.jsp">1st GAMM Activity Group Workshop</a><br>
