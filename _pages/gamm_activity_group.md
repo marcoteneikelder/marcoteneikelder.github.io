@@ -9,7 +9,7 @@ Interfacial and multiphase flow are essential areas of research that underpin a 
 The aim of this activity group is to bring together researchers working in the broad area of interfacial and multiphase flow systems by establishing a collaborative platform for early-career and established researchers. The group meets annually for a workshop, which features research presentations and provides a forum for planning and coordinating joint scientific activities.
 <br><br><br>
 
-Contact:<br>
+ <span style="color: #3b7c78;"><b>Contact</b></span><br>
 Chair: Dr. ir. Marco ten Eikelder (Darmstadt)<br>
 Vice Chair: Prof. Dr. Barbara Wagner (Berlin)<br>
 Vice Chair: Prof. Dr. Helmut Abels (Regensburg)<br>
