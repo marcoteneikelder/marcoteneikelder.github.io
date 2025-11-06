@@ -9,7 +9,7 @@ author_profile: true
 <li> Towards Greener Inkjet Printing: Cutting-Edge Evaporation Modeling for Energy Reduction<br>
   <b><a href="http://marcoteneikelder.github.io/files/Project_Towards_Greener_Inkjet_Printing.pdf" style="color: #7b2c35 !important;">Project description</a></b>
 </li>
-
+<br><br>
 Please do not hesitate to contact me if you are interested to work with me (or if you have project ideas).
 
 {% if author.googlescholar %}
