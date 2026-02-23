@@ -32,7 +32,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
 </ol>
 <!-- YEAR: 2026 -->
 <h2>2025</h2>
-<ol reversed start="18">
+<ol reversed start="21">
 <li><b>M.F.P. ten Eikelder</b>, E.H. van Brummelen, D. Schillinger <br>
    Compressible N-phase fluid mixture models<br>
    <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 2026 (to appear)<br>
@@ -53,7 +53,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
 </ol>
 <!-- YEAR: 2025 -->
 <h2>2024</h2>
-<ol reversed start="15">
+<ol reversed start="18">
 <li><b>M.F.P. ten Eikelder</b><br>
    A unified framework for N-phase Navier-Stokes Cahn-Hilliard Allen-Cahn mixture models with non-matching densities<br>
    <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 1013, A26, 2025<br>
