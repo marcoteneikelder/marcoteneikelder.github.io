@@ -9,11 +9,6 @@ author_profile: true
 </font>
 <h2>Under review</h2>
 <ol reversed start="25">
-<li>V. Badrkhani, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
-   An entropy-stable and kinetic energy-preserving macro-element HDG method for compressible flows<br>
-   <a href="https://arxiv.org/abs/2509.22411">https://arxiv.org/abs/2509.22411</a><br>
-   <b><a href="http://marcoteneikelder.github.io/files/2025_Badrkhani_entropy_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
-  </li>
 <li>X. Xue, <b>M.F.P. ten Eikelder</b>, X. Cheng, M. Gao, Y. Yang, Y. He, S. Wang, S. Cheng, Y. Hu, and P.V. Coveney<br>
    Fast-Forward Prediction of Lattice Boltzmann Equations via Physics-Informed Neural Operators<br>
    <a href="https://arxiv.org/abs/2509.22411">https://arxiv.org/abs/2509.22411</a><br>
@@ -24,6 +19,11 @@ author_profile: true
    <a href="https://arxiv.org/abs/2509.01293">https://arxiv.org/abs/2509.01293</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/2025_Xue_CH_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
 </li>
+<li>V. Badrkhani, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
+   An entropy-stable and kinetic energy-preserving macro-element HDG method for compressible flows<br>
+   <a href="https://arxiv.org/abs/2507.22195">https://arxiv.org/abs/2507.22195</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2025_Badrkhani_entropy_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+  </li>
   <li>M.L. Mika, <b>M.F.P. ten Eikelder</b>, D. Schillinger, R.R. Hiemstra <br>
 Matrix-free polynomial preconditioning of saddle point systems using the hyper-power method <br>
 <a href="https://arxiv.org/abs/2311.06926">https://arxiv.org/abs/2311.06926</a> <br>
