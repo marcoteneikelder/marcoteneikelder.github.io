@@ -24,29 +24,36 @@ author_profile: true
    <a href="https://arxiv.org/abs/2509.01293">https://arxiv.org/abs/2509.01293</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/2025_Xue_CH_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
 </li>
-<li>A. Brunk, <b>M.F.P. ten Eikelder</b><br>
-   A simple fully-discrete energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard mixture model with non-matching densities<br>
-   <a href="https://arxiv.org/abs/2504.00688">https://arxiv.org/abs/2504.00688</a><br>
-   <b><a href="http://marcoteneikelder.github.io/files/2025_Brunk_ten_Eikelder_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
-</li>
-<li><b>M.F.P. ten Eikelder</b>, E.H. van Brummelen, D. Schillinger <br>
-   Compressible N-phase fluid mixture models<br>
-   <a href="https://arxiv.org/abs/2503.24225">https://arxiv.org/abs/2503.24225</a><br>
-   <b><a href="http://marcoteneikelder.github.io/files/2025_ten_Eikelder_COMP_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
-</li>
   <li>M.L. Mika, <b>M.F.P. ten Eikelder</b>, D. Schillinger, R.R. Hiemstra <br>
 Matrix-free polynomial preconditioning of saddle point systems using the hyper-power method <br>
 <a href="https://arxiv.org/abs/2311.06926">https://arxiv.org/abs/2311.06926</a> <br>
 <b><a href="http://marcoteneikelder.github.io/files/2023_Mika_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
 </li>
 </ol>
-<!-- YEAR: 2025 -->
+<!-- YEAR: 2026 -->
 <h2>2025</h2>
-<ol reversed start="19">
+<ol reversed start="18">
+<li><b>M.F.P. ten Eikelder</b>, E.H. van Brummelen, D. Schillinger <br>
+   Compressible N-phase fluid mixture models<br>
+   <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 2026 (to appear)<br>
+   <a href="https://arxiv.org/abs/2503.24225">https://arxiv.org/abs/2503.24225</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2025_ten_Eikelder_COMP_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+</li>
+<li>A. Brunk, <b>M.F.P. ten Eikelder</b><br>
+   A simple fully-discrete energy-stable method for the two-phase Navier-Stokes Cahn-Hilliard mixture model with non-matching densities<br>
+   <span style="color: #3b7c78;"><b>Journal of Computational Physics</b></span> 548, 114548, 2026<br>
+    <a href="https://doi.org/10.1016/j.jcp.2025.114558">https://doi.org/10.1016/j.jcp.2025.114558</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/Brunk_ten_Eikelder_2026_JCP.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
+</li>
 <li>J. Hohl, A. Ebrahem, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    A Multi-compartment Homogenized Perfusion Model for Deforming Hierarchical Vasculature<br>
-   <span style="color: #3b7c78;"><b>Biomechanics and Modeling in Mechanobiology</b></span> 2025 (to appear) 
+   <span style="color: #3b7c78;"><b>Biomechanics and Modeling in Mechanobiology</b></span> 10, 2026
+    <a href="https://doi.org/10.1007/s10237-025-02026-6">https://doi.org/10.1007/s10237-025-02026-6</a><br>
 </li>
+</ol>
+<!-- YEAR: 2025 -->
+<h2>2024</h2>
+<ol reversed start="15">
 <li><b>M.F.P. ten Eikelder</b><br>
    A unified framework for N-phase Navier-Stokes Cahn-Hilliard Allen-Cahn mixture models with non-matching densities<br>
    <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 1013, A26, 2025<br>
