@@ -209,6 +209,7 @@ Stanford University, Stanford, 2024 <br>
 Correct energy behavior in two-fluid flow, <br>
 Proceedings of the 20th Numerical Towing Tank Symposium - NuTTS'17 <br>
 Wageningen, the Netherlands (October 2017) <br>
+<a href="https://www.proceedings.com/37192.html">https://www.proceedings.com/37192.html</a> <br>       
    </li>
    <li> <b>M.F.P. ten Eikelder</b>, F. Daude, B. Koren <br>
 A Lagrange-Projection-Like Numerical Scheme for Mixed Acoustic-Convective Two-Phase Flows <br>
