@@ -54,6 +54,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
    A Multi-compartment Homogenized Perfusion Model for Deforming Hierarchical Vasculature<br>
    <span style="color: #3b7c78;"><b>Biomechanics and Modeling in Mechanobiology</b></span> 10, 2026<br>
     <a href="https://doi.org/10.1007/s10237-025-02026-6">https://doi.org/10.1007/s10237-025-02026-6</a><br>
+    <b><a href="http://marcoteneikelder.github.io/files/Hohl_2026_BMM.pdf" style="color: #7b2c35 !important;">pdf article</a></b>    
 </li>
 </ol>
 <!-- YEAR: 2025 -->
