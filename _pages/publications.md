@@ -8,7 +8,12 @@ author_profile: true
     Journal articles
 </font>
 <h2>Under review</h2>
-<ol reversed start="25">
+<ol reversed start="26">
+<li><b>M.F.P. ten Eikelder</b>, A. Brunk <br>
+   Mixture-aware closure of the N-phase Navier--Stokes--Cahn--Hilliard mixture model<br>
+   <a href="https://arxiv.org/abs/2604.27999">https://arxiv.org/abs/2604.27999</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2026_ten_Eikelder_mixture_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+</li>
 <li>X. Xue, <b>M.F.P. ten Eikelder</b>, X. Cheng, M. Gao, Y. Yang, Y. He, S. Wang, S. Cheng, Y. Hu, and P.V. Coveney<br>
    Fast-Forward Prediction of Lattice Boltzmann Equations via Physics-Informed Neural Operators<br>
    <a href="https://arxiv.org/abs/2509.22411">https://arxiv.org/abs/2509.22411</a><br>
