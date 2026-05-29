@@ -40,8 +40,8 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
 <ol reversed start="21">
 <li><b>M.F.P. ten Eikelder</b>, E.H. van Brummelen, D. Schillinger <br>
    Compressible N-phase fluid mixture models<br>
-   <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 2026 (to appear)<br>
-   <a href="https://arxiv.org/abs/2503.24225">https://arxiv.org/abs/2503.24225</a><br>
+   <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 1032, A25, 2026<br>
+   <a href="https://doi.org/10.1017/jfm.2026.11366">https://doi.org/10.1017/jfm.2026.11366</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/2025_ten_Eikelder_COMP_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
 </li>
 <li>A. Brunk, <b>M.F.P. ten Eikelder</b><br>
@@ -63,7 +63,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
    A unified framework for N-phase Navier-Stokes Cahn-Hilliard Allen-Cahn mixture models with non-matching densities<br>
    <span style="color: #3b7c78;"><b>Journal of Fluid Mechanics</b></span> 1013, A26, 2025<br>
    <a href="https://doi.org/10.1017/jfm.2025.10186">https://doi.org/10.1017/jfm.2025.10186</a><br>
-   <b><a href="http://marcoteneikelder.github.io/files/2025_ten_Eikelder_JFM.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+   <b><a href="http://marcoteneikelder.github.io/files/ten_Eikelder_2025_JFM.pdf" style="color: #7b2c35 !important;">pdf article</a></b>
 </li>
 <li>A. Ebrahem, J. Hohl, E. Jessen, <b>M.F.P. ten Eikelder</b>, D. Schillinger<br>
    A Multiscale-Multiphysics Framework for Modeling Organ-scale Liver Regrowth<br>
