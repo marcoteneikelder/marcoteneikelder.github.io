@@ -8,11 +8,26 @@ author_profile: true
     Journal articles
 </font>
 <h2>Under review</h2>
-<ol reversed start="26">
+<ol reversed start="29">
+<li><b>M.F.P. ten Eikelder</b>, A. Brunk <br>
+   Surface-tension calibration for N-phase mixtures<br>
+   <a href="https://arxiv.org/abs/2606.14287">https://arxiv.org/abs/2606.14287</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2026_ten_Eikelder_surface_tension_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+</li>
+<li><b>M.F.P. ten Eikelder</b>, A. Brunk <br>
+   Symmetric structure-preserving discretization of N-phase incompressible fluid mixtures with arbitrary density ratios<br>
+   <a href="https://arxiv.org/abs/2606.12256">https://arxiv.org/abs/2606.12256</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2026_ten_Eikelder_symmetric_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+</li>    
 <li><b>M.F.P. ten Eikelder</b>, A. Brunk <br>
    Mixture-aware closure of the N-phase Navier--Stokes--Cahn--Hilliard mixture model<br>
    <a href="https://arxiv.org/abs/2604.27999">https://arxiv.org/abs/2604.27999</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/2026_ten_Eikelder_mixture_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+</li>
+<li> X. Xue, T. Yang, M. Gao, L. Pan, M. Wang, K. Zhu, S. Wang, J. Li, <b>M.F.P. ten Eikelder</b>, P.V. Coveney<br>
+    Uni-Flow: a unified autoregressive-diffusion model for complex multiscale flows<br>
+   <a href="https://arxiv.org/abs/2602.15592">https://arxiv.org/abs/2602.15592</a><br>
+   <b><a href="http://marcoteneikelder.github.io/files/2026_Xue_Uniflow_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
 </li>
 <li>X. Xue, <b>M.F.P. ten Eikelder</b>, X. Cheng, M. Gao, Y. Yang, Y. He, S. Wang, S. Cheng, Y. Hu, and P.V. Coveney<br>
    Fast-Forward Prediction of Lattice Boltzmann Equations via Physics-Informed Neural Operators<br>
