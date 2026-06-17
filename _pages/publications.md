@@ -218,7 +218,12 @@ An acoustic-convective splitting-based approach for the Kapila two-phase flow mo
 <font size="5">  
     Conference proceedings
 </font>
-<ol reversed>   
+<ol reversed>    
+    <li> A. Brunk, <b>M.F.P. ten Eikelder</b>, M. Fritz, D. Höhn, D. Trautwein <br>
+Review of thermodynamic structures and structure-preserving discretisations of Cahn–Hilliard-type models, <br>
+Proceedings of the 2025 ENUMATH conference​ <br>
+<b><a href="http://marcoteneikelder.github.io/files/2026_Brunk_review_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
+   </li>    
     <li> <b>M.F.P. ten Eikelder</b>, M.A. Khanwale <br>
 Ostwald ripening and breakup characteristics of the advective Cahn-Hilliard equation: The role of free energy functionals, <br>
 Proceedings of the 2024 Summer Program - Center for Turbulence Research​ <br>
