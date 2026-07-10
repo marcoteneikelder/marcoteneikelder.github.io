@@ -50,7 +50,7 @@ Matrix-free polynomial preconditioning of saddle point systems using the hyper-p
 <ol reversed start="22">
 <li>X. Xue, <b>M.F.P. ten Eikelder</b>, X. Cheng, M. Gao, Y. Yang, Y. He, S. Wang, S. Cheng, Y. Hu, and P.V. Coveney<br>
    Fast-Forward Prediction of Lattice Boltzmann Equations via Physics-Informed Neural Operators<br>
-<span style="color: #3b7c78;"><b>Nature Communications</b></span> to appear<br>
+<span style="color: #3b7c78;"><b>Nature Communications</b></span> (to appear)<br>
    <a href="https://arxiv.org/abs/2509.22411">https://arxiv.org/abs/2509.22411</a><br>
    <b><a href="http://marcoteneikelder.github.io/files/2025_Xue_LBE_arxiv.pdf" style="color: #7b2c35 !important;">pdf preprint</a></b>
 </li>
